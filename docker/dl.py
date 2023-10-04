@@ -39,4 +39,4 @@ print("#EXTM3U")
 print("#EXTENC:UTF-8\n")
 for i in dict_data["stations"]:
     print(
-        f'#EXTINF:-1,{i["name"]}\n#EXTVLCOPT:http-user-agent=${{USER_AGENT}}\n#EXTIMG:{i["logo"]}\n{i["stream"]}-hi\n')
+        f'#EXTINF:-1,{i["name"]}\n#PCRADIOLIST\n#EXTIMG:{i["logo"]}\n{i["stream"]}-hi\n')
