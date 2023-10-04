@@ -1,1 +1,4 @@
-# pcradio.m3u
+# PCRADIO.M3U
+
+
+playlist [pcradio.ru](http://pcradio.ru/)

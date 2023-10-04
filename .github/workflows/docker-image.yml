@@ -1,0 +1,27 @@
+name: pcradio
+on:
+  schedule:
+    - cron: '30 8 * * *'
+  push:
+    branches: ["master"]
+  pull_request:
+    branches: ["master"]
+
+jobs:
+  playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build image
+        run: docker build -t m3u -f docker/Dockerfile .
+      - name: Get m3u
+        run: docker run -i -e ZIPPASSWORD=${{ secrets.ZIPPASSWORD }} --rm m3u > pcradio.m3u
+      - name: Create report file
+        run: date +%s > pcradio.rep
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: RootShell-coder
+          author_email: Root.Shelling@gmail.com
+          message: 'update'
+          add: 'pcradio.*'
