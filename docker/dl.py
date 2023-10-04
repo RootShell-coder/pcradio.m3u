@@ -35,15 +35,8 @@ get_json_playlist(URL)
 
 js_file = open(f'list_{LANG}.json', 'r', encoding='utf-8')
 dict_data = json.loads(js_file.read())
-
-with open(f"list_{LANG}.m3u", "w", encoding='utf-8') as tf:
-    tf.write("#EXTM3U\n")
-    print("#EXTM3U")
-    tf.write("#EXTENC: UTF-8\n\n")
-    print("#EXTENC: UTF-8\n")
-    for i in dict_data["stations"]:
-        tf.write(
-            f'#EXTINF:-1, {i["name"]}\n#EXTIMG:{i["logo"]}\n#EXTVLCOPT:network-caching=5000\n{i["stream"]}\n\n')
-        print(
-            f'#EXTINF:-1, {i["name"]}\n#EXTIMG:{i["logo"]}\n#EXTVLCOPT:network-caching=5000\n{i["stream"]}\n')
-tf.close()
+print("#EXTM3U")
+print("#EXTENC:UTF-8\n")
+for i in dict_data["stations"]:
+    print(
+        f'#EXTINF:-1,{i["name"]}\n#EXTVLCOPT:http-user-agent=${{USER_AGENT}}\n#EXTIMG:{i["logo"]}\n{i["stream"]}-hi\n')
