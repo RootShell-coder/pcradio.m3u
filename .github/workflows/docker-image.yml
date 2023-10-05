@@ -25,5 +25,5 @@ jobs:
         with:
           author_name: RootShell-coder
           author_email: Root.Shelling@gmail.com
-          message: date +%s
+          message: 'upd'
           add: 'pcradio.*'
