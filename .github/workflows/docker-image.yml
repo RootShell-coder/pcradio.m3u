@@ -13,9 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Build image
-        run: docker build -t m3u -f docker/Dockerfile .
+        run: docker build -t pcm3u -f docker/Dockerfile .
       - name: Get m3u
-        run: docker run -i -e ZIPPASSWORD=${{ secrets.ZIPPASSWORD }} --rm m3u > pcradio.m3u
+        run: docker run -i -e ZIPPASSWORD=${{ secrets.ZIPPASSWORD }} --rm pcm3u m3u > pcradio.m3u
+      - name: Get uri
+        run: docker run -i -e ZIPPASSWORD=${{ secrets.ZIPPASSWORD }} --rm pcm3u uri > pcradio.uri
       - name: Create report file
         run: date +%s > pcradio.rep
       - name: Commit changes
@@ -23,5 +25,5 @@ jobs:
         with:
           author_name: RootShell-coder
           author_email: Root.Shelling@gmail.com
-          message: 'update'
+          message: date +%s
           add: 'pcradio.*'
