@@ -40,7 +40,7 @@ def m3u():
     js_file = open(f'list_{LANG}.json', 'r', encoding='utf-8')
     dict_data = json.loads(js_file.read())
     print("#EXTM3U")
-    print("#EXTENC:UTF-8")
+    print("#EXTENC:UTF-8\n")
     for i in dict_data["stations"]:
         print("#PCRADIOLIST")
         print(f'#EXTINF:-1,{i["name"]}')
