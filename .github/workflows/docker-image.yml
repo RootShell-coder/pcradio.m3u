@@ -1,7 +1,7 @@
 name: pcradio
 on:
   schedule:
-    - cron: '30 8 * * *'
+    - cron: '30 20 * * *'
   push:
     branches: ["master"]
   pull_request:
