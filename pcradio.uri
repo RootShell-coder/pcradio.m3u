@@ -118,7 +118,6 @@ http://stream.pcradio.ru:8000/rad_rdprtfm-hi
 http://stream.pcradio.ru:8000/rad_rdmtlhdsb-hi
 http://stream.pcradio.ru:8000/rad_rdfsnr-hi
 http://stream.pcradio.ru:8000/rad_rd88smmr-hi
-http://stream.pcradio.ru:8000/rad_vntdrdp-hi
 http://stream.pcradio.ru:8000/rad_nsdfmbss-hi
 http://stream.pcradio.ru:8000/rad_d2rlxcm-hi
 http://stream.pcradio.ru:8000/rad_prgrmqrd-hi
@@ -289,20 +288,19 @@ http://stream.pcradio.ru:8000/rad_rdgngd-hi
 http://stream.pcradio.ru:8000/rad_lxfm-hi
 http://stream.pcradio.ru:8000/rad_btrdcm-hi
 http://stream.pcradio.ru:8000/rad_rdrcrdhp-hi
-http://stream.pcradio.ru:8000/rad_rdsfr-hi
-http://stream.pcradio.ru:8000/rad_tpbcht-hi
 http://stream.pcradio.ru:8000/rad_rdrcksk-hi
 http://stream.pcradio.ru:8000/rad_nglsh99-hi
 http://stream.pcradio.ru:8000/rad_tnrdr-hi
 http://stream.pcradio.ru:8000/rad_djsnccnclb-hi
 http://stream.pcradio.ru:8000/rad_nghtcll-hi
+http://stream.pcradio.ru:8000/rad_rdsfr-hi
+http://stream.pcradio.ru:8000/rad_tpbcht-hi
+http://stream.pcradio.ru:8000/rad_lbmrd-hi
+http://stream.pcradio.ru:8000/rad_rdldbldb-hi
 http://stream.pcradio.ru:8000/rad_tpcrstano_rd-hi
 http://stream.pcradio.ru:8000/rad_ntnnvprtmx-hi
 http://stream.pcradio.ru:8000/rad_rnrdr-hi
 http://stream.pcradio.ru:8000/rad_rdrmpl-hi
-http://stream.pcradio.ru:8000/rad_lbmrd-hi
-http://stream.pcradio.ru:8000/rad_rdldbldb-hi
-http://stream.pcradio.ru:8000/rad_nrgg-hi
 http://stream.pcradio.ru:8000/rad_gtrkkchr-hi
 http://stream.pcradio.ru:8000/rad_rdynrj-hi
 http://stream.pcradio.ru:8000/rad_nshshnsns-hi
@@ -416,8 +414,6 @@ http://stream.pcradio.ru:8000/rad_rtrrdr-hi
 http://stream.pcradio.ru:8000/rad_pwrplstr-hi
 http://stream.pcradio.ru:8000/rad_pwrkvtr-hi
 http://stream.pcradio.ru:8000/rad_rddrmrs-hi
-http://stream.pcradio.ru:8000/rad_vrdrtrnc-hi
-http://stream.pcradio.ru:8000/rad_vrdrdnc-hi
 http://stream.pcradio.ru:8000/rad_sprradr-hi
 http://stream.pcradio.ru:8000/rad_rylrdrgg-hi
 http://stream.pcradio.ru:8000/rad_brtslvskrdsk-hi
@@ -513,7 +509,6 @@ http://stream.pcradio.ru:8000/rad_blgrrds-hi
 http://stream.pcradio.ru:8000/rad_rdsrtnjtp-hi
 http://stream.pcradio.ru:8000/rad_krvdfknnths-hi
 http://stream.pcradio.ru:8000/rad_ntrdb-hi
-http://stream.pcradio.ru:8000/rad_avradio_ru-hi
 http://stream.pcradio.ru:8000/rad_nvyzhzn-hi
 http://stream.pcradio.ru:8000/rad_mclsmrtn-hi
 http://stream.pcradio.ru:8000/rad_ntrrdrn-hi
@@ -1663,6 +1658,8 @@ http://stream.pcradio.ru:8000/unitedfm_jamz-hi
 http://stream.pcradio.ru:8000/unitedfm_rockmetal-hi
 http://stream.pcradio.ru:8000/piligrim_online-hi
 http://stream.pcradio.ru:8000/piligrim_bible-hi
+http://stream.pcradio.ru:8000/franceinfo-hi
+http://stream.pcradio.ru:8000/smoothjazz247-hi
 http://stream.pcradio.ru:8000/corks_96fm-hi
 http://stream.pcradio.ru:8000/klassikradio_klassrock-hi
 http://stream.pcradio.ru:8000/psyradio_fm_altern-hi
@@ -1695,8 +1692,6 @@ http://stream.pcradio.ru:8000/radio105_hiprnb-hi
 http://stream.pcradio.ru:8000/radio105_indaklubb-hi
 http://stream.pcradio.ru:8000/elmar_ee-hi
 http://stream.pcradio.ru:8000/ringfm_ee-hi
-http://stream.pcradio.ru:8000/franceinfo-hi
-http://stream.pcradio.ru:8000/smoothjazz247-hi
 http://stream.pcradio.ru:8000/artcity-hi
 http://stream.pcradio.ru:8000/wcsb_893-hi
 http://stream.pcradio.ru:8000/whus_917-hi
@@ -2229,6 +2224,7 @@ http://stream.pcradio.ru:8000/crooner_barstr-hi
 http://stream.pcradio.ru:8000/crooner_prem-hi
 http://stream.pcradio.ru:8000/govorit_maykop-hi
 http://stream.pcradio.ru:8000/europe1_fr-hi
+http://stream.pcradio.ru:8000/crooner_gentdr-hi
 http://stream.pcradio.ru:8000/lyubimy_gorod-hi
 http://stream.pcradio.ru:8000/strana_spb-hi
 http://stream.pcradio.ru:8000/beat_isr-hi
@@ -2260,7 +2256,6 @@ http://stream.pcradio.ru:8000/crooner_deanm-hi
 http://stream.pcradio.ru:8000/crooner_elvpres-hi
 http://stream.pcradio.ru:8000/crooner_juligl-hi
 http://stream.pcradio.ru:8000/crooner_mibu-hi
-http://stream.pcradio.ru:8000/crooner_gentdr-hi
 http://stream.pcradio.ru:8000/russkoe_zg-hi
 http://stream.pcradio.ru:8000/di_radio_psytrtr-hi
 http://stream.pcradio.ru:8000/record_futbass-hi
@@ -3055,7 +3050,6 @@ http://stream.pcradio.ru:8000/radio1_belarus-hi
 http://stream.pcradio.ru:8000/radiogora_electro-hi
 http://stream.pcradio.ru:8000/technobase_fm-hi
 http://stream.pcradio.ru:8000/lbc_london-hi
-http://stream.pcradio.ru:8000/lbc_london1152-hi
 http://stream.pcradio.ru:8000/radiokniga_com-hi
 http://stream.pcradio.ru:8000/radiozora_chill-hi
 http://stream.pcradio.ru:8000/bigfm_latin-hi
@@ -3164,6 +3158,7 @@ http://stream.pcradio.ru:8000/radius_fm-hi
 http://stream.pcradio.ru:8000/paul_in_rio-hi
 http://stream.pcradio.ru:8000/death_fm-hi
 http://stream.pcradio.ru:8000/rte_radio1_extra-hi
+http://stream.pcradio.ru:8000/avenged_sevenfold-hi
 http://stream.pcradio.ru:8000/avril_lavigne-hi
 http://stream.pcradio.ru:8000/babkin_5nizza-hi
 http://stream.pcradio.ru:8000/bad_balance-hi
@@ -3247,7 +3242,6 @@ http://stream.pcradio.ru:8000/aphrodite-hi
 http://stream.pcradio.ru:8000/apina_kombinacia-hi
 http://stream.pcradio.ru:8000/apocalyptica-hi
 http://stream.pcradio.ru:8000/arefieva_kovcheg-hi
-http://stream.pcradio.ru:8000/avenged_sevenfold-hi
 http://stream.pcradio.ru:8000/zoopark-hi
 http://stream.pcradio.ru:8000/nineth_rayon-hi
 http://stream.pcradio.ru:8000/a_studio-hi
