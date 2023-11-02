@@ -8302,16 +8302,6 @@ http://stream.pcradio.ru:8000/piligrim_online-hi
 http://stream.pcradio.ru:8000/piligrim_bible-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Franceinfo
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550078042.jpeg
-http://stream.pcradio.ru:8000/franceinfo-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Smooth Jazz 247
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550078176.jpeg
-http://stream.pcradio.ru:8000/smoothjazz247-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Cork's 96FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550078443.jpeg
 http://stream.pcradio.ru:8000/corks_96fm-hi
@@ -8470,6 +8460,16 @@ http://stream.pcradio.ru:8000/elmar_ee-hi
 #EXTINF:-1,Ring FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550098961.jpeg
 http://stream.pcradio.ru:8000/ringfm_ee-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Franceinfo
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550078042.jpeg
+http://stream.pcradio.ru:8000/franceinfo-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Smooth Jazz 247
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550078176.jpeg
+http://stream.pcradio.ru:8000/smoothjazz247-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Art City Radio
@@ -11132,11 +11132,6 @@ http://stream.pcradio.ru:8000/govorit_maykop-hi
 http://stream.pcradio.ru:8000/europe1_fr-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Crooner Radio - Gentlemen Drivers
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1674571167.jpeg
-http://stream.pcradio.ru:8000/crooner_gentdr-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Маркс 24
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1650330736.jpeg
 http://stream.pcradio.ru:8000/lyubimy_gorod-hi
@@ -11290,6 +11285,11 @@ http://stream.pcradio.ru:8000/crooner_juligl-hi
 #EXTINF:-1,Crooner Radio - Michael Buble
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1674571119.jpeg
 http://stream.pcradio.ru:8000/crooner_mibu-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Crooner Radio - Gentlemen Drivers
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1674571167.jpeg
+http://stream.pcradio.ru:8000/crooner_gentdr-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Русское - Золотой Граммофон
@@ -13917,11 +13917,6 @@ http://stream.pcradio.ru:8000/kan_arabic-hi
 http://stream.pcradio.ru:8000/kan_tarbut-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Yes Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1478731865.jpeg
-http://stream.pcradio.ru:8000/yesradio_it-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Виктори Рок (Victoree)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1478732329.jpeg
 http://stream.pcradio.ru:8000/victoree_ru-hi
@@ -14010,6 +14005,11 @@ http://stream.pcradio.ru:8000/btuners-hi
 #EXTINF:-1,Самарское Губернское Радио (Губерния)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1602661084.jpeg
 http://stream.pcradio.ru:8000/guberniafm_ru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Yes Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1478731865.jpeg
+http://stream.pcradio.ru:8000/yesradio_it-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Enigmatic station I
@@ -15802,11 +15802,6 @@ http://stream.pcradio.ru:8000/death_fm-hi
 http://stream.pcradio.ru:8000/rte_radio1_extra-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Avenged Sevenfold
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456487012.jpeg
-http://stream.pcradio.ru:8000/avenged_sevenfold-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Avril Lavigne
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456487180.jpeg
 http://stream.pcradio.ru:8000/avril_lavigne-hi
@@ -16220,6 +16215,11 @@ http://stream.pcradio.ru:8000/apocalyptica-hi
 #EXTINF:-1,Ольга Арефьева (Ковчег)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456486883.jpeg
 http://stream.pcradio.ru:8000/arefieva_kovcheg-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Avenged Sevenfold
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456487012.jpeg
+http://stream.pcradio.ru:8000/avenged_sevenfold-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Майк Науменко (Зоопарк)
