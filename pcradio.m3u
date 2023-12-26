@@ -2,6 +2,66 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Радио ВОС
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703596226.jpeg
+http://stream.pcradio.ru:8000/rad_rddsmrnyselpih-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Serendipity
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703596541.jpeg
+http://stream.pcradio.ru:8000/rad_rdserendpt-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Music History Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703596900.jpeg
+http://stream.pcradio.ru:8000/rad_mschistoryrd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Aventador Phonk Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703597321.jpeg
+http://stream.pcradio.ru:8000/rad_vntdrphonkrd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Baguvix Music
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703597740.jpeg
+http://stream.pcradio.ru:8000/rad_bagvxmuscrd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Fun FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703598072.jpeg
+http://stream.pcradio.ru:8000/rad_rumnyfunm-hi
+
+#PCRADIOLIST
+#EXTINF:-1,XDDance Radio 
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703598375.jpeg
+http://stream.pcradio.ru:8000/rad_xrdancfm-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Win-Win Radio 
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703598653.jpeg
+http://stream.pcradio.ru:8000/rad_wnwinrdru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Gospel Hits
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703598842.jpeg
+http://stream.pcradio.ru:8000/rad_rdgosplhits-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Beu FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703598988.jpeg
+http://stream.pcradio.ru:8000/rad_befmkz-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Reactiv Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703601093.jpeg
+http://stream.pcradio.ru:8000/rad_rectivrd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Epic Lounge - Coffee Bar Lounge
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703600147.jpeg
+http://stream.pcradio.ru:8000/rad_epclngcofeebrlg-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Радио ГАМАЮН
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1702838249.jpeg
 http://stream.pcradio.ru:8000/rad_gamun-hi
@@ -733,7 +793,7 @@ http://stream.pcradio.ru:8000/rad_rdmtlhdsb-hi
 
 #PCRADIOLIST
 #EXTINF:-1,FUSION Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1695755002.jpeg
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703595642.jpeg
 http://stream.pcradio.ru:8000/rad_rdfsnr-hi
 
 #PCRADIOLIST
@@ -3527,6 +3587,11 @@ http://stream.pcradio.ru:8000/rad_rurtrht-hi
 http://stream.pcradio.ru:8000/rad_uskslsngeles-hi
 
 #PCRADIOLIST
+#EXTINF:-1,NVC Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1623008786.png
+http://stream.pcradio.ru:8000/rad_usnvcc-hi
+
+#PCRADIOLIST
 #EXTINF:-1,ТНТ Music Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1623009714.jpeg
 http://stream.pcradio.ru:8000/rad_rutntmsc-hi
@@ -3535,11 +3600,6 @@ http://stream.pcradio.ru:8000/rad_rutntmsc-hi
 #EXTINF:-1,Radio LoFi Hip-Hop
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1623010836.jpeg
 http://stream.pcradio.ru:8000/rad_spnnrlf-hi
-
-#PCRADIOLIST
-#EXTINF:-1,NVC Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1623008786.png
-http://stream.pcradio.ru:8000/rad_usnvcc-hi
 
 #PCRADIOLIST
 #EXTINF:-1,RMF 24
@@ -17677,8 +17737,8 @@ http://stream.pcradio.ru:8000/George_Michael-hi
 http://stream.pcradio.ru:8000/Kesha-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Кухня
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454163004.jpeg
+#EXTINF:-1,Demis Roussos
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703360934.jpeg
 http://stream.pcradio.ru:8000/Kuhnja-hi
 
 #PCRADIOLIST
@@ -18228,17 +18288,17 @@ http://stream.pcradio.ru:8000/Nirvana-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Михаил Круг
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454097822.jpeg
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703362292.jpeg
 http://stream.pcradio.ru:8000/Michail_Krug-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Tori Amos
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454097933.jpeg
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703363424.jpeg
 http://stream.pcradio.ru:8000/Tori_Amos-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Yiruma
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454098179.jpeg
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703364279.jpeg
 http://stream.pcradio.ru:8000/Yurima-hi
 
 #PCRADIOLIST
