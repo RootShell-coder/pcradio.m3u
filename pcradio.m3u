@@ -2,6 +2,51 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Amy Winehouse
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704714699.jpeg
+http://stream.pcradio.ru:8000/amy_winehouse-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Мураками
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704715787.jpeg
+http://stream.pcradio.ru:8000/murakami-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Savage
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704717798.jpeg
+http://stream.pcradio.ru:8000/savage-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Lounge Beats
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704719158.jpeg
+http://stream.pcradio.ru:8000/rad_rdloungbts-hi
+
+#PCRADIOLIST
+#EXTINF:-1,RSG iRadio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704719352.jpeg
+http://stream.pcradio.ru:8000/rad_rsgird-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Сигма
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704719564.jpeg
+http://stream.pcradio.ru:8000/rad_sigmurngy-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Maximus Rock FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704719753.jpeg
+http://stream.pcradio.ru:8000/rad_maxmsrockfm-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Параллельный мир
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704720084.jpeg
+http://stream.pcradio.ru:8000/rad_parllelnmir-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Кирпичи (18+)
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704720927.jpeg
+http://stream.pcradio.ru:8000/kirpichi-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Radio Columbia
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704455241.jpeg
 http://stream.pcradio.ru:8000/rad_rdcolmbus-hi
@@ -1477,11 +1522,6 @@ http://stream.pcradio.ru:8000/rad_dscbns-hi
 http://stream.pcradio.ru:8000/rad_rdespns-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Radio Web Betânia Hit's
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1671490454.jpeg
-http://stream.pcradio.ru:8000/rad_rwbhits-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Mixlab – drum and bass
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1671490633.jpeg
 http://stream.pcradio.ru:8000/rad__mxlbs-hi
@@ -1587,11 +1627,6 @@ http://stream.pcradio.ru:8000/rad_rdrmcm-hi
 http://stream.pcradio.ru:8000/rad__rdlctrnts-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Радио Ваня (Санкт-Петербург)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1668632410.jpeg
-http://stream.pcradio.ru:8000/rad_rdvnrspb-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Bay 89.7 
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1668632931.png
 http://stream.pcradio.ru:8000/rad_bycmmt-hi
@@ -1610,6 +1645,11 @@ http://stream.pcradio.ru:8000/rad_htrdrt1sdtrck-hi
 #EXTINF:-1,Top Balada Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1668631199.jpeg
 http://stream.pcradio.ru:8000/rad_tpbldrd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Ваня (Санкт-Петербург)
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1668632410.jpeg
+http://stream.pcradio.ru:8000/rad_rdvnrspb-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio Aashiqanaa
@@ -2120,11 +2160,6 @@ http://stream.pcradio.ru:8000/rad_rssnvchrk-hi
 #EXTINF:-1,Rádio X
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1659798297.jpeg
 http://stream.pcradio.ru:8000/rad_rdxsk-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Дубовское ФМ
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1659798629.jpeg
-http://stream.pcradio.ru:8000/rad_dbvskfm-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio BMG
@@ -3632,6 +3667,11 @@ http://stream.pcradio.ru:8000/rad_rurtrht-hi
 http://stream.pcradio.ru:8000/rad_uskslsngeles-hi
 
 #PCRADIOLIST
+#EXTINF:-1,ТНТ Music Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1623009714.jpeg
+http://stream.pcradio.ru:8000/rad_rutntmsc-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Radio LoFi Hip-Hop
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1623010836.jpeg
 http://stream.pcradio.ru:8000/rad_spnnrlf-hi
@@ -3640,11 +3680,6 @@ http://stream.pcradio.ru:8000/rad_spnnrlf-hi
 #EXTINF:-1,NVC Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1623008786.png
 http://stream.pcradio.ru:8000/rad_usnvcc-hi
-
-#PCRADIOLIST
-#EXTINF:-1,ТНТ Music Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1623009714.jpeg
-http://stream.pcradio.ru:8000/rad_rutntmsc-hi
 
 #PCRADIOLIST
 #EXTINF:-1,RMF 24
@@ -6117,6 +6152,21 @@ http://stream.pcradio.ru:8000/dorozhnoe_rockclub-hi
 http://stream.pcradio.ru:8000/dorozhnoe_nostalgia-hi
 
 #PCRADIOLIST
+#EXTINF:-1,Зайцев FM - Club
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1637488627.jpeg
+http://stream.pcradio.ru:8000/electro_zaycev_fm-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Пульс Радио 103,8 FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1586793294.jpeg
+http://stream.pcradio.ru:8000/puls_radio1038-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Olegator-FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1586794923.jpeg
+http://stream.pcradio.ru:8000/olegator_fm-hi
+
+#PCRADIOLIST
 #EXTINF:-1,GTI Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1586768604.jpeg
 http://stream.pcradio.ru:8000/gtiradio_ru-hi
@@ -6255,21 +6305,6 @@ http://stream.pcradio.ru:8000/rnb_zaycev_fm-hi
 #EXTINF:-1,Зайцев FM - New Rock
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1637488590.jpeg
 http://stream.pcradio.ru:8000/newrock_zaycev_fm-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Зайцев FM - Club
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1637488627.jpeg
-http://stream.pcradio.ru:8000/electro_zaycev_fm-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Пульс Радио 103,8 FM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1586793294.jpeg
-http://stream.pcradio.ru:8000/puls_radio1038-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Olegator-FM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1586794923.jpeg
-http://stream.pcradio.ru:8000/olegator_fm-hi
 
 #PCRADIOLIST
 #EXTINF:-1,NØMERCY radio
@@ -8482,6 +8517,36 @@ http://stream.pcradio.ru:8000/piligrim_online-hi
 http://stream.pcradio.ru:8000/piligrim_bible-hi
 
 #PCRADIOLIST
+#EXTINF:-1,Hirschmilch Radio - Electronic
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550096883.jpeg
+http://stream.pcradio.ru:8000/hirschmilch_electronic-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Hirschmilch Radio - Prog House
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550096952.jpeg
+http://stream.pcradio.ru:8000/hirschmilch_proghouse-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Hirschmilch Radio - Psytrance
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550097090.jpeg
+http://stream.pcradio.ru:8000/hirschmilch_psytrance-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio 105
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550097200.jpeg
+http://stream.pcradio.ru:8000/radio105_net-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio 105 Hits
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1680343498.png
+http://stream.pcradio.ru:8000/radio105_hits-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio 105 Trap
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1680343483.png
+http://stream.pcradio.ru:8000/radio105_trap-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Radio 105 Miami
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1680343686.png
 http://stream.pcradio.ru:8000/radio105_miami-hi
@@ -8620,36 +8685,6 @@ http://stream.pcradio.ru:8000/vcr_auditorium-hi
 #EXTINF:-1,Hirschmilch Radio - Chillout
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550096807.jpeg
 http://stream.pcradio.ru:8000/hirschmilch_chill-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Hirschmilch Radio - Electronic
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550096883.jpeg
-http://stream.pcradio.ru:8000/hirschmilch_electronic-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Hirschmilch Radio - Prog House
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550096952.jpeg
-http://stream.pcradio.ru:8000/hirschmilch_proghouse-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Hirschmilch Radio - Psytrance
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550097090.jpeg
-http://stream.pcradio.ru:8000/hirschmilch_psytrance-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Radio 105
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1550097200.jpeg
-http://stream.pcradio.ru:8000/radio105_net-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Radio 105 Hits
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1680343498.png
-http://stream.pcradio.ru:8000/radio105_hits-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Radio 105 Trap
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1680343483.png
-http://stream.pcradio.ru:8000/radio105_trap-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Art City Radio
@@ -11197,16 +11232,6 @@ http://stream.pcradio.ru:8000/zeta_it-hi
 http://stream.pcradio.ru:8000/antenne_badkreuz-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Jawhara FM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1513453169.jpeg
-http://stream.pcradio.ru:8000/jawhara_fm-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Südtirol 1
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1513453774.jpeg
-http://stream.pcradio.ru:8000/suedtirol1_it-hi
-
-#PCRADIOLIST
 #EXTINF:-1,RAI R5 Classica
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1513452268.jpeg
 http://stream.pcradio.ru:8000/rai5_classica-hi
@@ -11222,9 +11247,34 @@ http://stream.pcradio.ru:8000/gtrk_spb-hi
 http://stream.pcradio.ru:8000/mosaiquefm_net-hi
 
 #PCRADIOLIST
+#EXTINF:-1,Jawhara FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1513453169.jpeg
+http://stream.pcradio.ru:8000/jawhara_fm-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Südtirol 1
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1513453774.jpeg
+http://stream.pcradio.ru:8000/suedtirol1_it-hi
+
+#PCRADIOLIST
 #EXTINF:-1,BurnFM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1512334575.jpeg
 http://stream.pcradio.ru:8000/burn_fm_de-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Crooner Radio - Legends
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1674570872.jpeg
+http://stream.pcradio.ru:8000/crooner_legends-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Crooner Radio - Barbra Streisand
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1674570842.jpeg
+http://stream.pcradio.ru:8000/crooner_barstr-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Crooner Radio - Premium
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1674571268.jpeg
+http://stream.pcradio.ru:8000/crooner_prem-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Almodóvar en La Onda
@@ -11260,21 +11310,6 @@ http://stream.pcradio.ru:8000/classicfm_com-hi
 #EXTINF:-1,Радио Рокс (Санкт-Петербург)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1511971343.jpeg
 http://stream.pcradio.ru:8000/roks_spb-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Crooner Radio - Legends
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1674570872.jpeg
-http://stream.pcradio.ru:8000/crooner_legends-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Crooner Radio - Barbra Streisand
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1674570842.jpeg
-http://stream.pcradio.ru:8000/crooner_barstr-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Crooner Radio - Premium
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1674571268.jpeg
-http://stream.pcradio.ru:8000/crooner_prem-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Говорит Майкоп
@@ -13972,16 +14007,6 @@ http://stream.pcradio.ru:8000/dfm_kazan-hi
 http://stream.pcradio.ru:8000/sublimefm_nl-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Best Smooth Jazz
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1495807166.jpeg
-http://stream.pcradio.ru:8000/best_smoothjazz_uk-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Smooth Jazz Florida Plus
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1495831420.jpeg
-http://stream.pcradio.ru:8000/smoothjazz_plus-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Kan Moreshet
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1495801124.jpeg
 http://stream.pcradio.ru:8000/kan_reshet_moreshet-hi
@@ -14015,6 +14040,16 @@ http://stream.pcradio.ru:8000/aceradio_superrock_mix-hi
 #EXTINF:-1,Smooth Jazz CD101.9 New York
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1495806291.jpeg
 http://stream.pcradio.ru:8000/smoothjazz_nyc1019-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Best Smooth Jazz
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1495807166.jpeg
+http://stream.pcradio.ru:8000/best_smoothjazz_uk-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Smooth Jazz Florida Plus
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1495831420.jpeg
+http://stream.pcradio.ru:8000/smoothjazz_plus-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Asia Expat Radio - Singapore (AXR)
@@ -15344,7 +15379,7 @@ http://stream.pcradio.ru:8000/party_maker_radio-hi
 #PCRADIOLIST
 #EXTINF:-1,Dance Boom
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1468007682.jpeg
-http://stream.pcradio.ru:8000/dance_boom-hi
+http://stream.pcradio.ru:8000/edm_club-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Costa Del Mar - Funky
@@ -15932,6 +15967,16 @@ http://stream.pcradio.ru:8000/death_fm-hi
 http://stream.pcradio.ru:8000/rte_radio1_extra-hi
 
 #PCRADIOLIST
+#EXTINF:-1,Blue System
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456488695.jpeg
+http://stream.pcradio.ru:8000/blue_system-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Bob Marley
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456488842.jpeg
+http://stream.pcradio.ru:8000/bob_marley-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Bosson
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456488974.jpeg
 http://stream.pcradio.ru:8000/bosson-hi
@@ -16340,16 +16385,6 @@ http://stream.pcradio.ru:8000/bad_balance-hi
 #EXTINF:-1,Benassi Bros.
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456487879.jpeg
 http://stream.pcradio.ru:8000/benassi-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Blue System
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456488695.jpeg
-http://stream.pcradio.ru:8000/blue_system-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Bob Marley
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456488842.jpeg
-http://stream.pcradio.ru:8000/bob_marley-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Майк Науменко (Зоопарк)
@@ -17872,6 +17907,11 @@ http://stream.pcradio.ru:8000/for_dance-hi
 http://stream.pcradio.ru:8000/piano_radio_pcradio-hi
 
 #PCRADIOLIST
+#EXTINF:-1,Johnny Cash
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454099958.jpeg
+http://stream.pcradio.ru:8000/Johnny_CASH-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Юрий Шатунов
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454100060.jpeg
 http://stream.pcradio.ru:8000/Jurij_Shatunov-hi
@@ -18318,7 +18358,7 @@ http://stream.pcradio.ru:8000/Yurima-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Ногу свело!
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454098743.jpeg
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704715939.jpeg
 http://stream.pcradio.ru:8000/Nogu_Svelo-hi
 
 #PCRADIOLIST
@@ -18375,11 +18415,6 @@ http://stream.pcradio.ru:8000/Infiniti-hi
 #EXTINF:-1,James Blunt
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454099824.jpeg
 http://stream.pcradio.ru:8000/James_Blunt-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Johnny Cash
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454099958.jpeg
-http://stream.pcradio.ru:8000/Johnny_CASH-hi
 
 #PCRADIOLIST
 #EXTINF:-1,ABBA
@@ -18710,11 +18745,6 @@ http://stream.pcradio.ru:8000/Nightwish-hi
 #EXTINF:-1,Нож для фрау Мюллер
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1684069253.jpeg
 http://stream.pcradio.ru:8000/Noj_Frau_Muller-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Океан Ельзи
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1684085860.jpeg
-http://stream.pcradio.ru:8000/Okean_Elzy-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Omar Akram
@@ -19777,16 +19807,6 @@ http://stream.pcradio.ru:8000/polskie_24-hi
 http://stream.pcradio.ru:8000/radio_poland-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Kinderlieder
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450697167.jpeg
-http://stream.pcradio.ru:8000/kinderlieder_laut-hi
-
-#PCRADIOLIST
-#EXTINF:-1,BebeNautas
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450697565.jpeg
-http://stream.pcradio.ru:8000/radiobebenautas_cl-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Henri Des
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450698027.jpeg
 http://stream.pcradio.ru:8000/radio_henrides_net-hi
@@ -19912,14 +19932,24 @@ http://stream.pcradio.ru:8000/angelsradio_ru-hi
 http://stream.pcradio.ru:8000/bigfm_dance-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Kinderradio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450359154.jpeg
-http://stream.pcradio.ru:8000/lautfm_kinderradio-hi
+#EXTINF:-1,Kinderlieder
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450697167.jpeg
+http://stream.pcradio.ru:8000/kinderlieder_laut-hi
+
+#PCRADIOLIST
+#EXTINF:-1,BebeNautas
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450697565.jpeg
+http://stream.pcradio.ru:8000/radiobebenautas_cl-hi
 
 #PCRADIOLIST
 #EXTINF:-1,KFJC
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450352873.jpeg
 http://stream.pcradio.ru:8000/kfjc_org-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Kinderradio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450359154.jpeg
+http://stream.pcradio.ru:8000/lautfm_kinderradio-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Радио mCm
@@ -19960,11 +19990,6 @@ http://stream.pcradio.ru:8000/green_music_radio-hi
 #EXTINF:-1,Mix FM (Хабаровск)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450182912.jpeg
 http://stream.pcradio.ru:8000/mixfmonline_ru-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Волхов-VFM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1488473296.jpeg
-http://stream.pcradio.ru:8000/volhov_vfm-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Joint Beat
@@ -21155,11 +21180,6 @@ http://stream.pcradio.ru:8000/the1940sukradio-hi
 #EXTINF:-1,Искатель
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1477737981.jpeg
 http://stream.pcradio.ru:8000/iskatel-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Javan
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1470239111.jpeg
-http://stream.pcradio.ru:8000/javan_radio-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Joint Radio Reggae
