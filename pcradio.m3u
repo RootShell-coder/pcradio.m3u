@@ -62,9 +62,9 @@ http://stream.pcradio.ru:8000/rad_shansnwwmsic-hi
 http://stream.pcradio.ru:8000/rad_joyfmnl-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Record Afro House
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1705665557.jpeg
-http://stream.pcradio.ru:8000/rad_recordafrhs-hi
+#EXTINF:-1,DFM Dance Hall
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1705657775.jpeg
+http://stream.pcradio.ru:8000/rad_dfmdanchll-hi
 
 #PCRADIOLIST
 #EXTINF:-1,GusGus
@@ -107,6 +107,11 @@ http://stream.pcradio.ru:8000/rad_recordndnce-hi
 http://stream.pcradio.ru:8000/rad_dfmtechhs-hi
 
 #PCRADIOLIST
+#EXTINF:-1,Record Afro House
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1705665557.jpeg
+http://stream.pcradio.ru:8000/rad_recordafrhs-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Green Dance
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1705653905.jpeg
 http://stream.pcradio.ru:8000/rad_greendncgr-hi
@@ -145,11 +150,6 @@ http://stream.pcradio.ru:8000/rad_rdpobdby-hi
 #EXTINF:-1,Spoon Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1705657262.jpeg
 http://stream.pcradio.ru:8000/rad_spnrdcstcrock-hi
-
-#PCRADIOLIST
-#EXTINF:-1,DFM Dance Hall
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1705657775.jpeg
-http://stream.pcradio.ru:8000/rad_dfmdanchll-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Amy Winehouse
