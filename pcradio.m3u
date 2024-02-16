@@ -7,6 +7,66 @@
 http://stream.pcradio.ru:8000/rad_gusphnk-hi
 
 #PCRADIOLIST
+#EXTINF:-1,Radio Afrodita
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1707858502.jpeg
+http://stream.pcradio.ru:8000/rd_afrditru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,K-Pop Dream Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1707859239.jpeg
+http://stream.pcradio.ru:8000/rad_kpopdrmpp-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Oldschool Hiphop
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1707859422.jpeg
+http://stream.pcradio.ru:8000/rad_ldschlhphp-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Relax - Oasis
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1707859779.jpeg
+http://stream.pcradio.ru:8000/rad_rdrelxsis-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Плед
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1707321826.jpeg
+http://stream.pcradio.ru:8000/rad_rdpled-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Hardetsky Club Station 
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1707322247.jpeg
+http://stream.pcradio.ru:8000/rad_hrdtskclubsttin -hi
+
+#PCRADIOLIST
+#EXTINF:-1,BOOMBOX LIFE
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1706466413.jpeg
+http://stream.pcradio.ru:8000/rad_bombxlfru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,PsyStation Classic Ethnic Chill
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1706466904.jpeg
+http://stream.pcradio.ru:8000/rad_pssttinethnicchll-hi
+
+#PCRADIOLIST
+#EXTINF:-1,SaFJEM Beats
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1706467385.jpeg
+http://stream.pcradio.ru:8000/rad_sfjembtsrd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Альфа Радио 107,9 FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1706467927.jpeg
+http://stream.pcradio.ru:8000/rad_rdalphby-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Joe 103.6 FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1706209603.jpeg
+http://stream.pcradio.ru:8000/rad_joyfmnl-hi
+
+#PCRADIOLIST
+#EXTINF:-1,90 FM (Баку)
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1706210145.png
+http://stream.pcradio.ru:8000/rad_bakfmazrbjn-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Wow Music Шансон
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1706210291.jpeg
 http://stream.pcradio.ru:8000/rad_shansnwwmsic-hi
@@ -13315,6 +13375,11 @@ http://stream.pcradio.ru:8000/rt1_inthemix-hi
 #EXTINF:-1,RT1 - Relax
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1493938553.jpeg
 http://stream.pcradio.ru:8000/rt1_relax-hi
+
+#PCRADIOLIST
+#EXTINF:-1,RT1 - Dance
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1493938599.jpeg
+http://stream.pcradio.ru:8000/rt1_dance-hi
 
 #PCRADIOLIST
 #EXTINF:-1,RT1 - Lounge
