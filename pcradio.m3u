@@ -2,6 +2,31 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Благодать FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1708722332.jpeg
+http://stream.pcradio.ru:8000/rad_blagdtfm-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Fenix FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1708722878.jpeg
+http://stream.pcradio.ru:8000/rad_rdfenxch-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Страна Гор
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1708723289.jpeg
+http://stream.pcradio.ru:8000/rad_rdstrngor-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Верста 
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1708723497.jpeg
+http://stream.pcradio.ru:8000/rad_rdverstr-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Kavadarci
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1708723789.jpeg
+http://stream.pcradio.ru:8000/rad_rdkvardaci-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Гусь Фонк
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1707858365.jpeg
 http://stream.pcradio.ru:8000/rad_gusphnk-hi
@@ -292,11 +317,6 @@ http://stream.pcradio.ru:8000/rad_rdserendpt-hi
 http://stream.pcradio.ru:8000/rad_mschistoryrd-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Radio Baguvix Music
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703597740.jpeg
-http://stream.pcradio.ru:8000/rad_bagvxmuscrd-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Радио Fun FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1703598072.jpeg
 http://stream.pcradio.ru:8000/rad_rumnyfunm-hi
@@ -570,11 +590,6 @@ http://stream.pcradio.ru:8000/rad_rlxfunkslmd-hi
 #EXTINF:-1,Indie Fm
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1697986023.jpeg
 http://stream.pcradio.ru:8000/rad_indfmnln-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Радио 1 (Уфа)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1697986438.jpeg
-http://stream.pcradio.ru:8000/rad_rdufanlin-hi
 
 #PCRADIOLIST
 #EXTINF:-1,DFM Organic House
@@ -1417,11 +1432,6 @@ http://stream.pcradio.ru:8000/rad_tpmrngrd-hi
 http://stream.pcradio.ru:8000/rad_tpslsrd-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Радио Советские песни
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1675506247.jpeg
-http://stream.pcradio.ru:8000/rad_svtskpsnr-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Hitz Fm - Sertanejo
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704453577.jpeg
 http://stream.pcradio.ru:8000/rad_rdsndfmsrtnj-hi
@@ -1450,11 +1460,6 @@ http://stream.pcradio.ru:8000/rad_clssicbrslrck-hi
 #EXTINF:-1,Helia - Hits 2014
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1675510805.jpeg
 http://stream.pcradio.ru:8000/rad_hlhtsfr-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Ralph Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1675511016.jpeg
-http://stream.pcradio.ru:8000/rad_rlphrdr-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Mi-House Radio
@@ -1985,11 +1990,6 @@ http://stream.pcradio.ru:8000/rad_kvdrcmk-hi
 #EXTINF:-1,Пилот 100.4 FM (Екатеринбург)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1662933236.png
 http://stream.pcradio.ru:8000/rad_pltfmr-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Radio Hitz Fm
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704453728.jpeg
-http://stream.pcradio.ru:8000/rad_sndfmbr-hi
 
 #PCRADIOLIST
 #EXTINF:-1,HappyHardcore.com Radio
@@ -3077,11 +3077,6 @@ http://stream.pcradio.ru:8000/rad_clscn-hi
 http://stream.pcradio.ru:8000/rad_mtrn-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Rádio Família F e M
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1646713595.jpeg
-http://stream.pcradio.ru:8000/rad_fmlbr-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Radio Bellissima Relax
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1646714048.jpeg
 http://stream.pcradio.ru:8000/rad_bllssmit-hi
@@ -3258,12 +3253,12 @@ http://stream.pcradio.ru:8000/rad_rdchnchll-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Klassik Radio - Pure Mozart
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1643457068.png
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1708720305.jpeg
 http://stream.pcradio.ru:8000/rad_klsskrdprmzrt-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Klassik Radio - Johann Sebastian Bach
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1643457401.png
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1708720223.jpeg
 http://stream.pcradio.ru:8000/rad_klsskrdprbch-hi
 
 #PCRADIOLIST
@@ -5417,11 +5412,6 @@ http://stream.pcradio.ru:8000/volosat_euro-hi
 http://stream.pcradio.ru:8000/volosat_rnm-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Karma Sound
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1593110578.jpeg
-http://stream.pcradio.ru:8000/karma_sound-hi
-
-#PCRADIOLIST
 #EXTINF:-1,7.7 Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1593110962.jpeg
 http://stream.pcradio.ru:8000/punto7_7-hi
@@ -5750,11 +5740,6 @@ http://stream.pcradio.ru:8000/erstea_90er-hi
 #EXTINF:-1,1a 2000er
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1587634769.jpeg
 http://stream.pcradio.ru:8000/erstea_00er-hi
-
-#PCRADIOLIST
-#EXTINF:-1,1a Hits
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1587634834.jpeg
-http://stream.pcradio.ru:8000/erstea_hits-hi
 
 #PCRADIOLIST
 #EXTINF:-1,1a Charts
@@ -6255,11 +6240,6 @@ http://stream.pcradio.ru:8000/lrt_radijas-hi
 #EXTINF:-1,LRT Klasika
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1586786097.jpeg
 http://stream.pcradio.ru:8000/lrt_klasika-hi
-
-#PCRADIOLIST
-#EXTINF:-1,LRT Opus
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1586786379.jpeg
-http://stream.pcradio.ru:8000/lrt_opus-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio City Light
@@ -10195,11 +10175,6 @@ http://stream.pcradio.ru:8000/studio21_ru-hi
 #EXTINF:-1,Rádio Inconfidência 880 AM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1530281867.jpeg
 http://stream.pcradio.ru:8000/inconfi_880am-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Rádio Cultura 1200 AM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1530281995.jpeg
-http://stream.pcradio.ru:8000/cultura_1200-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Rádio Aparecida 820 AM
