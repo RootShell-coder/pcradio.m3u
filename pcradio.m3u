@@ -2,6 +2,96 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Радио Садовод
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710284498.jpeg
+http://stream.pcradio.ru:8000/rad_cassiopeasdvd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Enigmatic Sunshine Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710284845.jpeg
+http://stream.pcradio.ru:8000/rad_enigmaticsnshn-hi
+
+#PCRADIOLIST
+#EXTINF:-1,50 Festival Radio Uzel
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710287498.jpeg
+http://stream.pcradio.ru:8000/rad_festivalrdzel-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Хит FM - Кавер
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710287912.jpeg
+http://stream.pcradio.ru:8000/rad_hitfmcover-hi
+
+#PCRADIOLIST
+#EXTINF:-1,COBROX RADiO
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710288193.jpeg
+http://stream.pcradio.ru:8000/rad_cobroxrd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Calabria Centrale
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710288495.jpeg
+http://stream.pcradio.ru:8000/rad_rdcalabriacntrle-hi
+
+#PCRADIOLIST
+#EXTINF:-1,LifeGate Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710288838.jpeg
+http://stream.pcradio.ru:8000/rad_lifegatit-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Mars FM Uzbekistan
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710289078.jpeg
+http://stream.pcradio.ru:8000/rad_marszbkistn-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Weinstrasse
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710289289.jpeg
+http://stream.pcradio.ru:8000/rad_rdweinstrss-hi
+
+#PCRADIOLIST
+#EXTINF:-1,WORLD MUSIC Радио
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710289500.jpeg
+http://stream.pcradio.ru:8000/rad_worldmsc-hi
+
+#PCRADIOLIST
+#EXTINF:-1,XD-College Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710279640.jpeg
+http://stream.pcradio.ru:8000/rad_rdcollge-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Hitradio 4 Ever
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710282548.jpeg
+http://stream.pcradio.ru:8000/rad_hitrdever-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Relax FM - Музыка для уикенда
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710281054.jpeg
+http://stream.pcradio.ru:8000/rad_rlxfmdlyuikenda-hi
+
+#PCRADIOLIST
+#EXTINF:-1,sunshine live - Melodic Beats
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710281583.jpeg
+http://stream.pcradio.ru:8000/rad_snhnlvmelodic-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Stop
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710282009.jpeg
+http://stream.pcradio.ru:8000/rad_rdstopru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Record Rap Classics
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710283508.jpeg
+http://stream.pcradio.ru:8000/rad_recordrapclssc-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Comedy Radio - Женский Стендап
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710283983.jpeg
+http://stream.pcradio.ru:8000/rad_comedyzhnskiystndup-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Гусь Рок
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710284248.jpeg
+http://stream.pcradio.ru:8000/rad_goosrk-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Blackcomb Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1708995178.jpeg
 http://stream.pcradio.ru:8000/rad_blckcmbrad-hi
@@ -1622,11 +1712,6 @@ http://stream.pcradio.ru:8000/radiodeluxehostingradioru-hi
 http://stream.pcradio.ru:8000/nashereghostingradioru-hi
 
 #PCRADIOLIST
-#EXTINF:-1,InVoice Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1672071576.jpeg
-http://stream.pcradio.ru:8000/rad_nvcmdr-hi
-
-#PCRADIOLIST
 #EXTINF:-1,CleansingMusic - Beyond Words
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1672072195.png
 http://stream.pcradio.ru:8000/rad_clnsngmscbw-hi
@@ -1700,11 +1785,6 @@ http://stream.pcradio.ru:8000/rad_kmprmspr-hi
 #EXTINF:-1,Ланна Радио (เพลงลูกทุ่ง ไทยลานนาเรดิโอ)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1670756534.jpeg
 http://stream.pcradio.ru:8000/rad_lnnrdcm-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Cremonia Radio Evangelo
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1670756933.jpeg
-http://stream.pcradio.ru:8000/rad_crmnrdt-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Интернет-радиостанция Новое Радио
@@ -3152,11 +3232,6 @@ http://stream.pcradio.ru:8000/rad_mssssppbls-hi
 http://stream.pcradio.ru:8000/rad_rcrddrmpp-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Радио Тема
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1646010506.jpeg
-http://stream.pcradio.ru:8000/rad_rdtm-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Oldies America
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1645610446.jpeg
 http://stream.pcradio.ru:8000/rad_ldsmrc-hi
@@ -3870,11 +3945,6 @@ http://stream.pcradio.ru:8000/rad_usacrsoc-hi
 #EXTINF:-1,Masters of Hardcore Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1620583725.png
 http://stream.pcradio.ru:8000/rad_mashard-hi
-
-#PCRADIOLIST
-#EXTINF:-1,EDM Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1620472799.jpeg
-http://stream.pcradio.ru:8000/rad_ruedm-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Брежнев FM
@@ -7987,11 +8057,6 @@ http://stream.pcradio.ru:8000/bbn_english-hi
 http://stream.pcradio.ru:8000/hirufm_abc-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Viva FM 94,7 (Пьятра-Нямц)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1562606784.jpeg
-http://stream.pcradio.ru:8000/vivafm_ro-hi
-
-#PCRADIOLIST
 #EXTINF:-1,RadioDeepa.Net FM (RDN)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1561413686.jpeg
 http://stream.pcradio.ru:8000/deepanet_fm-hi
@@ -10757,11 +10822,6 @@ http://stream.pcradio.ru:8000/record_kazan-hi
 http://stream.pcradio.ru:8000/myata_asha-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Seven Skies Radio 1
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1527127641.jpeg
-http://stream.pcradio.ru:8000/sevenskies_1-hi
-
-#PCRADIOLIST
 #EXTINF:-1,WalconFM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1527128457.jpeg
 http://stream.pcradio.ru:8000/walcon_fm-hi
@@ -11280,11 +11340,6 @@ http://stream.pcradio.ru:8000/crooner_barstr-hi
 #EXTINF:-1,Crooner Radio - Premium
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1674571268.jpeg
 http://stream.pcradio.ru:8000/crooner_prem-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Говорит Майкоп
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1511794425.jpeg
-http://stream.pcradio.ru:8000/govorit_maykop-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Europe 1
@@ -13262,11 +13317,6 @@ http://stream.pcradio.ru:8000/sunshinelive_classics-hi
 http://stream.pcradio.ru:8000/sunshinelive_trance-hi
 
 #PCRADIOLIST
-#EXTINF:-1,sunshine live - Hard
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1669163016.png
-http://stream.pcradio.ru:8000/sunshinelive_hard-hi
-
-#PCRADIOLIST
 #EXTINF:-1,sunshine live - Techno
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1669163171.png
 http://stream.pcradio.ru:8000/sunshinelive_techno-hi
@@ -13285,21 +13335,6 @@ http://stream.pcradio.ru:8000/sunshinelive_90er-hi
 #EXTINF:-1,sunshine live - Festival
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1669163641.png
 http://stream.pcradio.ru:8000/sunshinelive_festival-hi
-
-#PCRADIOLIST
-#EXTINF:-1,sunshine live - Hands Up
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1669163751.png
-http://stream.pcradio.ru:8000/sunshinelive_handsup-hi
-
-#PCRADIOLIST
-#EXTINF:-1,sunshine live - Mayday
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1669163826.png
-http://stream.pcradio.ru:8000/sunshinelive_mayday-hi
-
-#PCRADIOLIST
-#EXTINF:-1,sunshine live - Nature One
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1669163920.png
-http://stream.pcradio.ru:8000/sunshinelive_natureone-hi
 
 #PCRADIOLIST
 #EXTINF:-1,sunshine live - Drum n Bass
@@ -15820,11 +15855,6 @@ http://stream.pcradio.ru:8000/protonradio_com-hi
 #EXTINF:-1,TalkRadio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1458915453.jpeg
 http://stream.pcradio.ru:8000/talkradio_co_uk-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Dance Wave!
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1529102137.jpeg
-http://stream.pcradio.ru:8000/dance_wave-hi
 
 #PCRADIOLIST
 #EXTINF:-1,RTÉ 2FM
@@ -21277,11 +21307,6 @@ http://stream.pcradio.ru:8000/carnavalfmru-hi
 http://stream.pcradio.ru:8000/energy981com-hi
 
 #PCRADIOLIST
-#EXTINF:-1,EDM Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1537479069.jpeg
-http://stream.pcradio.ru:8000/edmradioru-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Воскресение
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1447424060.jpeg
 http://stream.pcradio.ru:8000/pravradioru-hi
@@ -21367,8 +21392,8 @@ http://stream.pcradio.ru:8000/pannon_radio-hi
 http://stream.pcradio.ru:8000/xclusive_one_drop-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Relax FM Nature
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1487618938.jpeg
+#EXTINF:-1,Relax FM - Наедине с природой
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710280433.jpeg
 http://stream.pcradio.ru:8000/relax_fm_nature-hi
 
 #PCRADIOLIST
@@ -22323,12 +22348,12 @@ http://stream.pcradio.ru:8000/fritz_de-hi
 
 #PCRADIOLIST
 #EXTINF:-1,BBC 4
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1686940243.png
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710285156.png
 http://stream.pcradio.ru:8000/rad_b4c-hi
 
 #PCRADIOLIST
 #EXTINF:-1,BBC 5 Live
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1686942799.png
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710285219.jpeg
 http://stream.pcradio.ru:8000/rad_b5c-hi
 
 #PCRADIOLIST
