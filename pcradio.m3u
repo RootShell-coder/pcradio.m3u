@@ -2532,11 +2532,6 @@ http://stream.pcradio.ru:8000/rad_smfmclqhp-hi
 http://stream.pcradio.ru:8000/rad_dtskrdsc-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Radio BBC NEWS HAITI
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1659473941.jpeg
-http://stream.pcradio.ru:8000/rad_bbcnwsht-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Радио Курс
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1659474635.jpeg
 http://stream.pcradio.ru:8000/rad_rdkrs-hi
@@ -4200,11 +4195,6 @@ http://stream.pcradio.ru:8000/rad_dli-hi
 #EXTINF:-1,Радио Победы
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1617377715.png
 http://stream.pcradio.ru:8000/rad_pobe-hi
-
-#PCRADIOLIST
-#EXTINF:-1,BBC Radio London
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1687016928.png
-http://stream.pcradio.ru:8000/rad_bb-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio.R41
@@ -6962,11 +6952,6 @@ http://stream.pcradio.ru:8000/balear_palma-hi
 http://stream.pcradio.ru:8000/rurock_zaycev_fm-hi
 
 #PCRADIOLIST
-#EXTINF:-1,National Public Radio (NPR)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1584136155.jpeg
-http://stream.pcradio.ru:8000/npr_org-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Sensimedia Hip Hop
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1584136300.jpeg
 http://stream.pcradio.ru:8000/sensimedia_hiphop-hi
@@ -7195,11 +7180,6 @@ http://stream.pcradio.ru:8000/pulsradio_00-hi
 #EXTINF:-1,Q-dance
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1584156922.jpeg
 http://stream.pcradio.ru:8000/qdance_nl-hi
-
-#PCRADIOLIST
-#EXTINF:-1,BBS Radio Station 1
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1584156999.jpeg
-http://stream.pcradio.ru:8000/bbsradio_1-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Ethno Music Internet radio
@@ -11182,11 +11162,6 @@ http://stream.pcradio.ru:8000/novacr_net-hi
 http://stream.pcradio.ru:8000/eingdoi_thai-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Voice of America Persian (VOA)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1517232205.jpeg
-http://stream.pcradio.ru:8000/voa_pers-hi
-
-#PCRADIOLIST
 #EXTINF:-1,12 Port
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1517232491.jpeg
 http://stream.pcradio.ru:8000/port_12-hi
@@ -14457,11 +14432,6 @@ http://stream.pcradio.ru:8000/dreyeckland_de-hi
 http://stream.pcradio.ru:8000/st_hoerfunk-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Wüste Welle
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1474555675.jpeg
-http://stream.pcradio.ru:8000/wueste_welle-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Antenne Bayern - 80er Kulthits
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1474555939.jpeg
 http://stream.pcradio.ru:8000/bayern_80er-hi
@@ -15117,16 +15087,6 @@ http://stream.pcradio.ru:8000/hr_info-hi
 http://stream.pcradio.ru:8000/mdr_jump-hi
 
 #PCRADIOLIST
-#EXTINF:-1,BBC 3
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1686941236.png
-http://stream.pcradio.ru:8000/rad_b3c-hi
-
-#PCRADIOLIST
-#EXTINF:-1,BBC 4 Extra
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1686942992.png
-http://stream.pcradio.ru:8000/rad_bex4-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Fip
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1473714850.jpeg
 http://stream.pcradio.ru:8000/fip_live-hi
@@ -15200,11 +15160,6 @@ http://stream.pcradio.ru:8000/dontr_ru-hi
 #EXTINF:-1,Иваново FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1473717390.jpeg
 http://stream.pcradio.ru:8000/ivanovo_1067-hi
-
-#PCRADIOLIST
-#EXTINF:-1,BBC 2
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1686940137.png
-http://stream.pcradio.ru:8000/rad_b2c-hi
 
 #PCRADIOLIST
 #EXTINF:-1,FFH iTunes Top40
@@ -15495,11 +15450,6 @@ http://stream.pcradio.ru:8000/radiogora_electro-hi
 #EXTINF:-1,Technobase FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1466114896.jpeg
 http://stream.pcradio.ru:8000/technobase_fm-hi
-
-#PCRADIOLIST
-#EXTINF:-1,LBC London
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1466114962.jpeg
-http://stream.pcradio.ru:8000/lbc_london-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Радио Книга
@@ -16622,11 +16572,6 @@ http://stream.pcradio.ru:8000/cadenaser_madrid-hi
 http://stream.pcradio.ru:8000/wradio_com_mx-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Voice of America
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1455619703.jpeg
-http://stream.pcradio.ru:8000/voice_of_america-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Крым Точка
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1455620202.jpeg
 http://stream.pcradio.ru:8000/krym_tochka-hi
@@ -17117,11 +17062,6 @@ http://stream.pcradio.ru:8000/David_Guetta-hi
 http://stream.pcradio.ru:8000/Darren_Hayes-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Бумбокс
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454203761.jpeg
-http://stream.pcradio.ru:8000/Bumboks-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Brandon Stone
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454209045.jpeg
 http://stream.pcradio.ru:8000/Brandon_Stone-hi
@@ -17152,19 +17092,9 @@ http://stream.pcradio.ru:8000/Ace_Of_Base-hi
 http://stream.pcradio.ru:8000/Anna_Vissi-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Anuryzm
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454209935.jpeg
-http://stream.pcradio.ru:8000/Anuryzm_uae-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Армейские песни 18+
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454210039.jpeg
 http://stream.pcradio.ru:8000/Armejskie_pesni-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Breaking Orbit
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454210105.jpeg
-http://stream.pcradio.ru:8000/Breaking_orbit_aus-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Chocolate FM
@@ -17215,11 +17145,6 @@ http://stream.pcradio.ru:8000/Dragon_Ash-hi
 #EXTINF:-1,Elton John
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454210913.jpeg
 http://stream.pcradio.ru:8000/Elton_John-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Fiction Junction
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454211003.jpeg
-http://stream.pcradio.ru:8000/Fiction_Junction-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Foreigner
@@ -19827,11 +19752,6 @@ http://stream.pcradio.ru:8000/polskie_3-hi
 http://stream.pcradio.ru:8000/polskie_4-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Polskie radio 24
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450817104.jpeg
-http://stream.pcradio.ru:8000/polskie_24-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Radio Poland
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450817641.jpeg
 http://stream.pcradio.ru:8000/radio_poland-hi
@@ -20140,11 +20060,6 @@ http://stream.pcradio.ru:8000/novoeradio_by-hi
 #EXTINF:-1,Новое Радио - Top100
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1449657117.jpeg
 http://stream.pcradio.ru:8000/novoeradio_top-hi
-
-#PCRADIOLIST
-#EXTINF:-1,American Voice Radio Network (AVRN)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1496347874.jpeg
-http://stream.pcradio.ru:8000/avrn_voice-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Город FM
@@ -21030,16 +20945,6 @@ http://stream.pcradio.ru:8000/bigfm_urban-hi
 #EXTINF:-1,Radio 13
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1448020993.jpeg
 http://stream.pcradio.ru:8000/radio13_ru-hi
-
-#PCRADIOLIST
-#EXTINF:-1,BBC 1 Extra
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1686943137.png
-http://stream.pcradio.ru:8000/rad_bex-hi
-
-#PCRADIOLIST
-#EXTINF:-1,BBC 1
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1686940325.png
-http://stream.pcradio.ru:8000/bbc_1-hi
 
 #PCRADIOLIST
 #EXTINF:-1,France Musique
@@ -22437,29 +22342,9 @@ http://stream.pcradio.ru:8000/mdr_sputnik_rock-hi
 http://stream.pcradio.ru:8000/fritz_de-hi
 
 #PCRADIOLIST
-#EXTINF:-1,BBC 4
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710285156.png
-http://stream.pcradio.ru:8000/rad_b4c-hi
-
-#PCRADIOLIST
-#EXTINF:-1,BBC 5 Live
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710285219.jpeg
-http://stream.pcradio.ru:8000/rad_b5c-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Vem Radio 91.1 FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1691279795.jpeg
 http://stream.pcradio.ru:8000/vem_am-hi
-
-#PCRADIOLIST
-#EXTINF:-1,BBC 6 Music
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1686943394.png
-http://stream.pcradio.ru:8000/rad_b6c-hi
-
-#PCRADIOLIST
-#EXTINF:-1,BBC Asian Network
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1686943561.png
-http://stream.pcradio.ru:8000/rad_basc-hi
 
 #PCRADIOLIST
 #EXTINF:-1,WNYC News station
