@@ -2,6 +2,31 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Радио Волгоград 24
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710833235.jpeg
+http://stream.pcradio.ru:8000/rad_volgogrdvst-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Известия
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710833724.jpeg
+http://stream.pcradio.ru:8000/rad_zvestiyvest-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Национальное радио Чувашии
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710834172.jpeg
+http://stream.pcradio.ru:8000/rad_chuvashvest-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Петербург
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710838060.jpeg
+http://stream.pcradio.ru:8000/rad_peterbrgvest-hi
+
+#PCRADIOLIST
+#EXTINF:-1,СЛОТ
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710838269.jpeg
+http://stream.pcradio.ru:8000/slot-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Heart London Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710631213.jpeg
 http://stream.pcradio.ru:8000/rad_raheart-hi
