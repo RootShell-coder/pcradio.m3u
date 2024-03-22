@@ -2,6 +2,66 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Радио Точка
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711120444.jpeg
+http://stream.pcradio.ru:8000/rad_ratochkvest-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Справедливое Радио
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711120691.jpeg
+http://stream.pcradio.ru:8000/rad_spravdlvyerad-hi
+
+#PCRADIOLIST
+#EXTINF:-1,ФМ-на Дону
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711121033.jpeg
+http://stream.pcradio.ru:8000/rad_fmnadnuvest-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио №1 (Уфа)
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711121473.jpeg
+http://stream.pcradio.ru:8000/rad_ufavesti-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Сибирь Абакан
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711122193.jpeg
+http://stream.pcradio.ru:8000/rad_sibrabkn-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Русский Край
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711122666.jpeg
+http://stream.pcradio.ru:8000/rad_russkykrai-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Ялта FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711123820.jpeg
+http://stream.pcradio.ru:8000/rad_yaltfmvest-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Лира FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711124149.jpeg
+http://stream.pcradio.ru:8000/rad_lirfmvest-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Спутник в Крыму
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711124779.jpeg
+http://stream.pcradio.ru:8000/rad_rdkrimvest-hi
+
+#PCRADIOLIST
+#EXTINF:-1,DJIN FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711125100.jpeg
+http://stream.pcradio.ru:8000/rad_dginmusc-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Шансон Радио-ру
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711125512.jpeg
+http://stream.pcradio.ru:8000/rad_shanspavlpsad-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Ингушетия
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711126147.jpeg
+http://stream.pcradio.ru:8000/rad_ingshrdvest-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Радио Волгоград 24
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710833235.jpeg
 http://stream.pcradio.ru:8000/rad_volgogrdvst-hi
@@ -225,11 +285,6 @@ http://stream.pcradio.ru:8000/rad_comedyzhnskiystndup-hi
 #EXTINF:-1,Гусь Рок
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710284248.jpeg
 http://stream.pcradio.ru:8000/rad_goosrk-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Blackcomb Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1708995178.jpeg
-http://stream.pcradio.ru:8000/rad_blckcmbrad-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Timsol Online Radiosi
@@ -475,11 +530,6 @@ http://stream.pcradio.ru:8000/murakami-hi
 #EXTINF:-1,Savage
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704717798.jpeg
 http://stream.pcradio.ru:8000/savage-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Lounge Beats
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1704719158.jpeg
-http://stream.pcradio.ru:8000/rad_rdloungbts-hi
 
 #PCRADIOLIST
 #EXTINF:-1,RSG iRadio
@@ -1450,11 +1500,6 @@ http://stream.pcradio.ru:8000/rad_chdrnrplc-hi
 #EXTINF:-1,Regenbogen 2 – Deutschrock
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710631698.jpeg
 http://stream.pcradio.ru:8000/rad_rgnbgn2drck-hi
-
-#PCRADIOLIST
-#EXTINF:-1,DIMusic Club
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1683471752.jpeg
-http://stream.pcradio.ru:8000/rad_dmscdnccllctn-hi
 
 #PCRADIOLIST
 #EXTINF:-1,BiG 2 Radio
@@ -3025,11 +3070,6 @@ http://stream.pcradio.ru:8000/rad_rt1hmffc-hi
 #EXTINF:-1,Radio Blanik CZ 
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1653409336.png
 http://stream.pcradio.ru:8000/rad_rdblnkcz-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Radio Kraków 101.6
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1652800850.jpeg
-http://stream.pcradio.ru:8000/rad_rdkrkwpl-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio Shqip
@@ -4890,11 +4930,6 @@ http://stream.pcradio.ru:8000/zhara_fm-hi
 #EXTINF:-1,Radio Yakhal FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1606989810.jpeg
 http://stream.pcradio.ru:8000/yakhal_fm-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Radio Realite FM 95.1
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1606990326.jpeg
-http://stream.pcradio.ru:8000/realite_951-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio Tequila Manele Romania
@@ -14402,11 +14437,6 @@ http://stream.pcradio.ru:8000/blood_stream-hi
 http://stream.pcradio.ru:8000/radioyan_armenian-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Radio Yan - Patriotic
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1474633829.jpeg
-http://stream.pcradio.ru:8000/radioyan_patriot-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Lratvakan Radio 106,5 FM 
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1474641357.jpeg
 http://stream.pcradio.ru:8000/lratvakan_1065-hi
@@ -20757,11 +20787,6 @@ http://stream.pcradio.ru:8000/wdr3_de-hi
 http://stream.pcradio.ru:8000/wdr5_de-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Game Play
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1448471349.jpeg
-http://stream.pcradio.ru:8000/radiogameplay_ru-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Alem FM 89.2
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1493147741.jpeg
 http://stream.pcradio.ru:8000/alem_fm892-hi
@@ -21355,11 +21380,6 @@ http://stream.pcradio.ru:8000/noisefmru-hi
 #EXTINF:-1,WDR 4
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1447427563.jpeg
 http://stream.pcradio.ru:8000/wdr4radio-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Ziniu Radijas
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1447429646.jpeg
-http://stream.pcradio.ru:8000/ziniur_lt-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio Lovely
@@ -22090,11 +22110,6 @@ http://stream.pcradio.ru:8000/obraz_nn-hi
 #EXTINF:-1,Dark Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1482143175.jpeg
 http://stream.pcradio.ru:8000/darkradio_de-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Радио Прага (Radio Praha)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1482143796.jpeg
-http://stream.pcradio.ru:8000/praha_cz-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Lumix FM
