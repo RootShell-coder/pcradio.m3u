@@ -2,6 +2,21 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Hiroyuki Sawano
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711264417.jpeg
+http://stream.pcradio.ru:8000/Savano_Hirojuki-hi
+
+#PCRADIOLIST
+#EXTINF:-1,P!nk
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711265036.jpeg
+http://stream.pcradio.ru:8000/pink-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Каспийский Груз
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711265364.jpeg
+http://stream.pcradio.ru:8000/kaspiyskiy_gruz-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Радио Точка
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711120444.jpeg
 http://stream.pcradio.ru:8000/rad_ratochkvest-hi
