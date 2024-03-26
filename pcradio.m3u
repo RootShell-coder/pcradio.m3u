@@ -17,6 +17,26 @@ http://stream.pcradio.ru:8000/pink-hi
 http://stream.pcradio.ru:8000/kaspiyskiy_gruz-hi
 
 #PCRADIOLIST
+#EXTINF:-1,Whitesnake
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711269434.jpeg
+http://stream.pcradio.ru:8000/whitesnake-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Градусы
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711280251.jpeg
+http://stream.pcradio.ru:8000/gradusi-hi
+
+#PCRADIOLIST
+#EXTINF:-1,АнимациЯ
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711281114.jpeg
+http://stream.pcradio.ru:8000/animaciya-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Ariana Grande
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711312321.jpeg
+http://stream.pcradio.ru:8000/ariana_grande-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Радио Точка
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711120444.jpeg
 http://stream.pcradio.ru:8000/rad_ratochkvest-hi
@@ -16512,16 +16532,6 @@ http://stream.pcradio.ru:8000/auktsyon-hi
 http://stream.pcradio.ru:8000/blestyashie-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Брати Гадюкіни
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1455753692.jpeg
-http://stream.pcradio.ru:8000/braty_gadyukiny-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Братья Карамазовы
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1455753851.jpeg
-http://stream.pcradio.ru:8000/bratya_karamazovy-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Кар-мэн (Car-Man)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1455753999.jpeg
 http://stream.pcradio.ru:8000/car_man-hi
@@ -16555,11 +16565,6 @@ http://stream.pcradio.ru:8000/golubye_berety-hi
 #EXTINF:-1,Город 312
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1455755057.jpeg
 http://stream.pcradio.ru:8000/gorod_312-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Green Grey
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1455755273.jpeg
-http://stream.pcradio.ru:8000/green_grey-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Игорь Крутой
@@ -17445,11 +17450,6 @@ http://stream.pcradio.ru:8000/Malinin-hi
 #EXTINF:-1,Михаил Боярский
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454268878.jpeg
 http://stream.pcradio.ru:8000/Mihail_Bojarskij-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Zutokine
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1454268929.jpeg
-http://stream.pcradio.ru:8000/Zutokine-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Aqua
