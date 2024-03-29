@@ -2,6 +2,31 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Станция 2000
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711731946.jpeg
+http://stream.pcradio.ru:8000/rad_statntwothnd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Молоко
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711732738.jpeg
+http://stream.pcradio.ru:8000/rad_rdmilkdanc-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио AVN Артем
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711733132.jpeg
+http://stream.pcradio.ru:8000/rad_avnrtmpop-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radio Noroc
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711733668.jpeg
+http://stream.pcradio.ru:8000/rad_rdnorfolk-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radiare online
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711733916.jpeg
+http://stream.pcradio.ru:8000/rad_rdiarenln-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Hiroyuki Sawano
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711264417.jpeg
 http://stream.pcradio.ru:8000/Savano_Hirojuki-hi
@@ -1717,11 +1742,6 @@ http://stream.pcradio.ru:8000/rad_mrzkrdr-hi
 http://stream.pcradio.ru:8000/rad_rdchll-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Lava FM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1678313236.jpeg
-http://stream.pcradio.ru:8000/rad_lvfmcm-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Radyo D
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1678313592.jpeg
 http://stream.pcradio.ru:8000/rad_rdydtr-hi
@@ -2443,7 +2463,7 @@ http://stream.pcradio.ru:8000/rad_grllar-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Радио На Стройке
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1660421129.jpeg
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711733386.jpeg
 http://stream.pcradio.ru:8000/rad_rdnstrk-hi
 
 #PCRADIOLIST
@@ -4437,11 +4457,6 @@ http://stream.pcradio.ru:8000/rad_dormirag-hi
 http://stream.pcradio.ru:8000/zeron_50s-hi
 
 #PCRADIOLIST
-#EXTINF:-1,0N 60s
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618052569.jpeg
-http://stream.pcradio.ru:8000/zeron_60s-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Space Radio 24/7 by Kayla' Caryapadas
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1616938924.jpeg
 http://stream.pcradio.ru:8000/rad_1spac-hi
@@ -6027,11 +6042,6 @@ http://stream.pcradio.ru:8000/erstea_00er-hi
 http://stream.pcradio.ru:8000/erstea_charts-hi
 
 #PCRADIOLIST
-#EXTINF:-1,1a Oldies
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1587634982.jpeg
-http://stream.pcradio.ru:8000/erstea_oldies-hi
-
-#PCRADIOLIST
 #EXTINF:-1,1a Rock
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1587635060.jpeg
 http://stream.pcradio.ru:8000/erstea_rock-hi
@@ -6080,11 +6090,6 @@ http://stream.pcradio.ru:8000/erstea_party-hi
 #EXTINF:-1,1a Classic Rock
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1587636750.jpeg
 http://stream.pcradio.ru:8000/erstea_clarock-hi
-
-#PCRADIOLIST
-#EXTINF:-1,1a Deutsch Pop
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1587636816.jpeg
-http://stream.pcradio.ru:8000/erstea_deupop-hi
 
 #PCRADIOLIST
 #EXTINF:-1,1a Deutsch Rap
@@ -9587,11 +9592,6 @@ http://stream.pcradio.ru:8000/hirschmilch_prog-hi
 http://stream.pcradio.ru:8000/sv_narod-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Radio Top 40 - Urban
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1547457307.jpeg
-http://stream.pcradio.ru:8000/radiotop40_de_urban-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Bretagne 5
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1547457443.jpeg
 http://stream.pcradio.ru:8000/bretagne5-hi
@@ -10662,16 +10662,6 @@ http://stream.pcradio.ru:8000/zeron_70s-hi
 http://stream.pcradio.ru:8000/zeron_80s-hi
 
 #PCRADIOLIST
-#EXTINF:-1,0N 90s
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1528320708.jpeg
-http://stream.pcradio.ru:8000/zeron_90s-hi
-
-#PCRADIOLIST
-#EXTINF:-1,0N Charts
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1528320781.jpeg
-http://stream.pcradio.ru:8000/zeron_charts-hi
-
-#PCRADIOLIST
 #EXTINF:-1,0N Dance
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1528320877.jpeg
 http://stream.pcradio.ru:8000/zeron_dance-hi
@@ -10680,11 +10670,6 @@ http://stream.pcradio.ru:8000/zeron_dance-hi
 #EXTINF:-1,0N Electro
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1659824703.jpeg
 http://stream.pcradio.ru:8000/zeron_electro-hi
-
-#PCRADIOLIST
-#EXTINF:-1,0N Schlager
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1528321025.jpeg
-http://stream.pcradio.ru:8000/zeron_schlager-hi
 
 #PCRADIOLIST
 #EXTINF:-1,0N Disco
@@ -13762,11 +13747,6 @@ http://stream.pcradio.ru:8000/antenne_tue_80er-hi
 http://stream.pcradio.ru:8000/antenne_tue_deupop-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Antenne Thüringen - Lounge
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1493162466.jpeg
-http://stream.pcradio.ru:8000/antenne_tue_lounge-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Antenne Thüringen - 90er
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1493162520.jpeg
 http://stream.pcradio.ru:8000/antenne_tue_90er-hi
@@ -14050,11 +14030,6 @@ http://stream.pcradio.ru:8000/radioriel_ragtime-hi
 #EXTINF:-1,Gold London
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1489014785.jpeg
 http://stream.pcradio.ru:8000/gold_the_greatest_uk-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Nachum Segal Network
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1489007210.jpeg
-http://stream.pcradio.ru:8000/nachumsegal-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Радио России (Иркутск)
@@ -16618,7 +16593,7 @@ http://stream.pcradio.ru:8000/the_chemodan-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Вилли Токарев
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1455756894.jpeg
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1711406861.jpeg
 http://stream.pcradio.ru:8000/villi_tokarev-hi
 
 #PCRADIOLIST
