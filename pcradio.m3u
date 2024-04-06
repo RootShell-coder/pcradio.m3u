@@ -2,6 +2,11 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,@SkazkiNaroda в Telegram
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712401810.jpeg
+http://stream.pcradio.ru:8000/skazki_naroda-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Космос FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712229441.jpeg
 http://stream.pcradio.ru:8000/rad_cosnfmrck-hi
@@ -30,6 +35,16 @@ http://stream.pcradio.ru:8000/rad_rdposdpop-hi
 #EXTINF:-1,Rusko Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712231634.jpeg
 http://stream.pcradio.ru:8000/rad_ruskrdbg-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Астана
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712241571.jpeg
+http://stream.pcradio.ru:8000/rad_astnakz-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Авторадио (Кишинев)
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712241766.jpeg
+http://stream.pcradio.ru:8000/rad_avtchishnu-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Станция 2000
@@ -4532,7 +4547,7 @@ http://stream.pcradio.ru:8000/rad_dalefm-hi
 http://stream.pcradio.ru:8000/rad_energyde-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Нямкин ФМ: Русские хиты
+#EXTINF:-1,NYAMKIN.RU Кулинарный сайт
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1615128252.jpeg
 http://stream.pcradio.ru:8000/nyamkin_fm-hi
 
