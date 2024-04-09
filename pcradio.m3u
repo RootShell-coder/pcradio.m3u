@@ -2,6 +2,31 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Jazzetta Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712674967.jpeg
+http://stream.pcradio.ru:8000/rad_rdjazztaru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Wilinor Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712675126.jpeg
+http://stream.pcradio.ru:8000/rad_wilnrkg-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Россошь
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712675540.jpeg
+http://stream.pcradio.ru:8000/rad_rossschru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,bigFM Throwback
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712675796.jpeg
+http://stream.pcradio.ru:8000/rad_bgfmthrback-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Минская волна (МВ-Радио)
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712676181.jpeg
+http://stream.pcradio.ru:8000/rad_minsnews-hi
+
+#PCRADIOLIST
 #EXTINF:-1,@SkazkiNaroda в Telegram
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712401810.jpeg
 http://stream.pcradio.ru:8000/skazki_naroda-hi
@@ -4187,16 +4212,6 @@ http://stream.pcradio.ru:8000/rad_kirevroppls-hi
 http://stream.pcradio.ru:8000/rad_essoccreat-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Созидательное общество FM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1621262042.jpeg
-http://stream.pcradio.ru:8000/rad_rusoccreat-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Creative Society FM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1621159610.jpeg
-http://stream.pcradio.ru:8000/rad_usacrsoc-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Masters of Hardcore Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1620583725.png
 http://stream.pcradio.ru:8000/rad_mashard-hi
@@ -4260,11 +4275,6 @@ http://stream.pcradio.ru:8000/rad_melru-hi
 #EXTINF:-1,Radio Mirchi 98.3 Delhi
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618553443.jpeg
 http://stream.pcradio.ru:8000/rad_iindmirc-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Rádio Cristã Online
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618553927.jpeg
-http://stream.pcradio.ru:8000/rad_jesus-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio ISW
@@ -10362,11 +10372,6 @@ http://stream.pcradio.ru:8000/energy_zuerich-hi
 http://stream.pcradio.ru:8000/yacht_radio-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Radio Santa Cruz 960 AM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1530458196.jpeg
-http://stream.pcradio.ru:8000/santacruz_irfa-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Radio Pokoj
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1530458256.jpeg
 http://stream.pcradio.ru:8000/pokoj_sk-hi
@@ -10900,11 +10905,6 @@ http://stream.pcradio.ru:8000/gtrk_bashkor-hi
 #EXTINF:-1,Радио Юность
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1527125146.jpeg
 http://stream.pcradio.ru:8000/yunost_radio-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Deutschrock-Zentrale
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1527125210.jpeg
-http://stream.pcradio.ru:8000/deurock_zentr-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Bassdrive
@@ -13042,11 +13042,6 @@ http://stream.pcradio.ru:8000/egofm_pure-hi
 http://stream.pcradio.ru:8000/egofm_rap-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Laser Hot Hits International - Listen Again
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1496352656.jpeg
-http://stream.pcradio.ru:8000/laser_hothits_again-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Laser Hot Hits Dance International
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1611195405.jpeg
 http://stream.pcradio.ru:8000/laser_hothits_dance-hi
@@ -14370,11 +14365,6 @@ http://stream.pcradio.ru:8000/rmf_nostalgia-hi
 #EXTINF:-1,DNB FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1475252720.jpeg
 http://stream.pcradio.ru:8000/dnbfm_ru-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Jesus a Vida
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1582296837.jpeg
-http://stream.pcradio.ru:8000/jesusavida_com_br-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio Haifa 107.5
@@ -16715,11 +16705,6 @@ http://stream.pcradio.ru:8000/aceradio_hairband-hi
 #EXTINF:-1,РадыМузыке
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1498082597.jpeg
 http://stream.pcradio.ru:8000/rady_muzyke-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Импульс FM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1555540643.jpeg
-http://stream.pcradio.ru:8000/impuls_ru-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio 538 Top 50
@@ -19550,11 +19535,6 @@ http://stream.pcradio.ru:8000/wacken_radio-hi
 #EXTINF:-1,Модель для сборки 1 - MDS станция
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450779682.jpeg
 http://stream.pcradio.ru:8000/mdsst_ru_1-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Модель для сборки 2 - MDS станция
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450779685.jpeg
-http://stream.pcradio.ru:8000/mdsst_ru_2-hi
 
 #PCRADIOLIST
 #EXTINF:-1,RPR1. Hits für Kids
