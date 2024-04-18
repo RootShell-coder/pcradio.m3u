@@ -4492,11 +4492,6 @@ http://stream.pcradio.ru:8000/rad_90s3nergy-hi
 http://stream.pcradio.ru:8000/rad_dormirag-hi
 
 #PCRADIOLIST
-#EXTINF:-1,0N 50s
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618052997.jpeg
-http://stream.pcradio.ru:8000/zeron_50s-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Space Radio 24/7 by Kayla' Caryapadas
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1616938924.jpeg
 http://stream.pcradio.ru:8000/rad_1spac-hi
@@ -6050,16 +6045,6 @@ http://stream.pcradio.ru:8000/air_gold_mumbai-hi
 #EXTINF:-1,RS dance station
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1588165660.jpeg
 http://stream.pcradio.ru:8000/rsdance_station-hi
-
-#PCRADIOLIST
-#EXTINF:-1,1a 60er
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1587633990.jpeg
-http://stream.pcradio.ru:8000/erstea_60er-hi
-
-#PCRADIOLIST
-#EXTINF:-1,1a 70er
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1587634051.jpeg
-http://stream.pcradio.ru:8000/erstea_70er-hi
 
 #PCRADIOLIST
 #EXTINF:-1,1a 90er
@@ -10650,16 +10635,6 @@ http://stream.pcradio.ru:8000/record_bighits-hi
 #EXTINF:-1,Record Dream Dance
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1528320358.jpeg
 http://stream.pcradio.ru:8000/record_dreamdance-hi
-
-#PCRADIOLIST
-#EXTINF:-1,0N 70s
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1528320563.jpeg
-http://stream.pcradio.ru:8000/zeron_70s-hi
-
-#PCRADIOLIST
-#EXTINF:-1,0N 80s
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1528320641.jpeg
-http://stream.pcradio.ru:8000/zeron_80s-hi
 
 #PCRADIOLIST
 #EXTINF:-1,0N Electro
