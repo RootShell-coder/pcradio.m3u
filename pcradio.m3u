@@ -52,6 +52,31 @@ http://stream.pcradio.ru:8000/smokie-hi
 http://stream.pcradio.ru:8000/rad_galaxyprgrssiveru-hi
 
 #PCRADIOLIST
+#EXTINF:-1,Волшебное Радио
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715353731.jpeg
+http://stream.pcradio.ru:8000/rad_volshbnrdru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Free Radio Conselve
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715353966.jpeg
+http://stream.pcradio.ru:8000/rad_freerdcnselvrd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Estereo Clase 92.9 FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715354407.jpeg
+http://stream.pcradio.ru:8000/rad_esterclasfmhn-hi
+
+#PCRADIOLIST
+#EXTINF:-1,DFM K-POP
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715355336.jpeg
+http://stream.pcradio.ru:8000/rad_dfmkpop-hi
+
+#PCRADIOLIST
+#EXTINF:-1,TOCA RADIO
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715355782.jpeg
+http://stream.pcradio.ru:8000/rad_tocardru-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Jazzetta Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712674967.jpeg
 http://stream.pcradio.ru:8000/rad_rdjazztaru-hi
@@ -6537,11 +6562,6 @@ http://stream.pcradio.ru:8000/rad_nost-hi
 http://stream.pcradio.ru:8000/pinoy_seoul-hi
 
 #PCRADIOLIST
-#EXTINF:-1,LRT Radijas
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1586779587.jpeg
-http://stream.pcradio.ru:8000/lrt_radijas-hi
-
-#PCRADIOLIST
 #EXTINF:-1,LRT Klasika
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1586786097.jpeg
 http://stream.pcradio.ru:8000/lrt_klasika-hi
@@ -9162,11 +9182,6 @@ http://stream.pcradio.ru:8000/antenarock_sk_hard-hi
 http://stream.pcradio.ru:8000/vlna_sk_golden-hi
 
 #PCRADIOLIST
-#EXTINF:-1,KNPR News 88.9
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1549946075.jpeg
-http://stream.pcradio.ru:8000/knpr_889news-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Planetfrequency Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1548264098.jpeg
 http://stream.pcradio.ru:8000/planetfreq_us-hi
@@ -9365,11 +9380,6 @@ http://stream.pcradio.ru:8000/ckut_903-hi
 #EXTINF:-1,Discoradio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1548171246.jpeg
 http://stream.pcradio.ru:8000/discoradio_it-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Radio Slavic Family
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1548174519.jpeg
-http://stream.pcradio.ru:8000/slavic_family-hi
 
 #PCRADIOLIST
 #EXTINF:-1,ChillTrax
@@ -20192,11 +20202,6 @@ http://stream.pcradio.ru:8000/i_love_mash-hi
 http://stream.pcradio.ru:8000/latvijas_radio1-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Latvijas Radio 2 (LR2)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1501105665.jpeg
-http://stream.pcradio.ru:8000/latvijas_radio2-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Latvijas Radio 3 (LR3)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1501105733.jpeg
 http://stream.pcradio.ru:8000/latvijas_radio3-hi
@@ -20905,11 +20910,6 @@ http://stream.pcradio.ru:8000/chipelduk-hi
 #EXTINF:-1,Tok FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1447937118.jpeg
 http://stream.pcradio.ru:8000/tokfm_pl-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Radio WNET
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1447937390.jpeg
-http://stream.pcradio.ru:8000/radiownet_pl-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Audioboxlive DJ Radio
