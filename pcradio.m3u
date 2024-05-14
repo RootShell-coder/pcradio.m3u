@@ -2,6 +2,16 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Taylor Swift
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715682019.jpeg
+http://stream.pcradio.ru:8000/taylor_swift-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Muse
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715618739.jpeg
+http://stream.pcradio.ru:8000/muse-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Русская музыка 24
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715342319.jpeg
 http://stream.pcradio.ru:8000/rad_wowmscrumsc-hi
@@ -540,11 +550,6 @@ http://stream.pcradio.ru:8000/rad_gusdphous-hi
 #EXTINF:-1,Благодать FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1708722332.jpeg
 http://stream.pcradio.ru:8000/rad_blagdtfm-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Radio Fenix FM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1708722878.jpeg
-http://stream.pcradio.ru:8000/rad_rdfenxch-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Радио Страна Гор
@@ -1175,11 +1180,6 @@ http://stream.pcradio.ru:8000/rad_kachphardcr-hi
 #EXTINF:-1,Радио Чепца
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1696577543.jpeg
 http://stream.pcradio.ru:8000/rad_rdchepc-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Molotoff FM - Retro Remix
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1696578242.jpeg
-http://stream.pcradio.ru:8000/rad_mltffretrrmx-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio RTL 102.5
@@ -15627,11 +15627,6 @@ http://stream.pcradio.ru:8000/alexandr_serov-hi
 http://stream.pcradio.ru:8000/alexey_rybnikov-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Ансамбль Мещерина (ЭМИ)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1461093867.jpeg
-http://stream.pcradio.ru:8000/ansambl_mesherina-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Billy’s Band
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1461093971.jpeg
 http://stream.pcradio.ru:8000/billys_band-hi
@@ -15655,11 +15650,6 @@ http://stream.pcradio.ru:8000/dire_straits-hi
 #EXTINF:-1,Дмитрий Маликов
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1461095060.jpeg
 http://stream.pcradio.ru:8000/dmitry_malikov-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Друга Ріка
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1461095218.jpeg
-http://stream.pcradio.ru:8000/druga_rika-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Five Finger Death Punch
@@ -16390,11 +16380,6 @@ http://stream.pcradio.ru:8000/the_doors-hi
 #EXTINF:-1,The Rasmus
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456504736.jpeg
 http://stream.pcradio.ru:8000/the_rasmus-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Танок на майдані Конґо (ТНМК)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1456505037.jpeg
-http://stream.pcradio.ru:8000/tnmk_tanok_na_maydani-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Иезекииль 25:17
@@ -20212,11 +20197,6 @@ http://stream.pcradio.ru:8000/latvijas_radio3-hi
 http://stream.pcradio.ru:8000/muzkom_ru-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Strefa FM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1449161432.jpeg
-http://stream.pcradio.ru:8000/strefa_fm-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Inforadio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1641503499.jpeg
 http://stream.pcradio.ru:8000/rad_deinfo-hi
@@ -20670,11 +20650,6 @@ http://stream.pcradio.ru:8000/klassikradio_loungebeat-hi
 #EXTINF:-1,WDR 2
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1448449975.jpeg
 http://stream.pcradio.ru:8000/wdr2_de-hi
-
-#PCRADIOLIST
-#EXTINF:-1,WDR 3
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1448450253.jpeg
-http://stream.pcradio.ru:8000/wdr3_de-hi
 
 #PCRADIOLIST
 #EXTINF:-1,WDR 5
