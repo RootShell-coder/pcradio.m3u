@@ -2,6 +2,31 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Sport Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715813534.jpeg
+http://stream.pcradio.ru:8000/rad_rprsporrdge-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Super Radio (Тверь)
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715813894.jpeg
+http://stream.pcradio.ru:8000/rad_superrdru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Megapolis FM (Лянтор)
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715815756.jpeg
+http://stream.pcradio.ru:8000/rad_megaplslyantrru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,РЕТРО Хит
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715815947.jpeg
+http://stream.pcradio.ru:8000/rad_retrhtkrd-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Technolovers - HYPERTECHNO
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715816551.jpeg
+http://stream.pcradio.ru:8000/rad_technlvrshypertchn-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Taylor Swift
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715682019.jpeg
 http://stream.pcradio.ru:8000/taylor_swift-hi
@@ -1602,8 +1627,8 @@ http://stream.pcradio.ru:8000/rad_trrtrds-hi
 http://stream.pcradio.ru:8000/rad_rdbtb-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2 - Country
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1685985127.jpeg
+#EXTINF:-1,ROCK FM Country
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715809667.jpeg
 http://stream.pcradio.ru:8000/rad_rgnbgncntr-hi
 
 #PCRADIOLIST
@@ -1692,8 +1717,8 @@ http://stream.pcradio.ru:8000/rad_dfmnrflw-hi
 http://stream.pcradio.ru:8000/rad_chdrnrplc-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2 – Deutschrock
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710631698.jpeg
+#EXTINF:-1,ROCK FM Deutschrock
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715806058.jpeg
 http://stream.pcradio.ru:8000/rad_rgnbgn2drck-hi
 
 #PCRADIOLIST
@@ -4882,48 +4907,48 @@ http://stream.pcradio.ru:8000/regenbo_00er-hi
 http://stream.pcradio.ru:8000/regenbo_hip-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2 - Metal
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1610506327.jpeg
+#EXTINF:-1,ROCK FM Metal
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715812702.jpeg
 http://stream.pcradio.ru:8000/regenbo2_metal-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2 - Indie Rock
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1610506401.jpeg
+#EXTINF:-1,ROCK FM Indie Rock
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715812875.jpeg
 http://stream.pcradio.ru:8000/regenbo2_indie-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2 - Metallica
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1610506477.jpeg
+#EXTINF:-1,ROCK FM Metallica
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715813147.jpeg
 http://stream.pcradio.ru:8000/regenbo2_metallica-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2 - Guns N'Roses
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1610506570.jpeg
+#EXTINF:-1,ROCK FM Guns N'Roses
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715807433.jpeg
 http://stream.pcradio.ru:8000/regenbo2_guns-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2 - Rolling Stones
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1610507166.jpeg
+#EXTINF:-1,ROCK FM Rolling Stones
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715810338.jpeg
 http://stream.pcradio.ru:8000/regenbo2_rostones-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2 - 70s Rock
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1610507272.jpeg
+#EXTINF:-1,ROCK FM 70er Rock
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715810187.jpeg
 http://stream.pcradio.ru:8000/regenbo2_70srock-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2 - 80s Rock
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1610507399.jpeg
+#EXTINF:-1,ROCK FM 80er Rock
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715810660.jpeg
 http://stream.pcradio.ru:8000/regenbo2_80srock-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2 - Modern Rock
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1610507487.jpeg
+#EXTINF:-1,ROCK FM Modern Rock
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715809942.jpeg
 http://stream.pcradio.ru:8000/regenbo2_morock-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2 - Classic Rock
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1610507572.jpeg
+#EXTINF:-1,ROCK FM Classic Rock
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715813303.jpeg
 http://stream.pcradio.ru:8000/regenbo2_clasrock-hi
 
 #PCRADIOLIST
@@ -8538,7 +8563,7 @@ http://stream.pcradio.ru:8000/grad_petrov-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Freelance FM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1579148054.jpeg
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715805022.jpeg
 http://stream.pcradio.ru:8000/freelance_fm-hi
 
 #PCRADIOLIST
@@ -14792,8 +14817,8 @@ http://stream.pcradio.ru:8000/radio7_de-hi
 http://stream.pcradio.ru:8000/regenbogen-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Regenbogen 2
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1474299269.jpeg
+#EXTINF:-1,ROCK FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715809296.jpeg
 http://stream.pcradio.ru:8000/regenbogen2-hi
 
 #PCRADIOLIST
