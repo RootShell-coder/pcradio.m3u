@@ -2,6 +2,11 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Каканал 18+
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1717644815.png
+http://stream.pcradio.ru:8000/kakanal-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Sport Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715813534.jpeg
 http://stream.pcradio.ru:8000/rad_rprsporrdge-hi
@@ -1232,7 +1237,7 @@ http://stream.pcradio.ru:8000/rad_relfreshfm-hi
 http://stream.pcradio.ru:8000/rad_kbrdnbolkary-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Радио POP FM Биробиджан
+#EXTINF:-1,Радио Новая Волна Биробиджан
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1697399105.jpeg
 http://stream.pcradio.ru:8000/rad_ppfmbirobdzhn-hi
 
