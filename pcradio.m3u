@@ -2,11 +2,6 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
-#EXTINF:-1,Каканал 18+
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1717644815.png
-http://stream.pcradio.ru:8000/kakanal-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Sport Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715813534.jpeg
 http://stream.pcradio.ru:8000/rad_rprsporrdge-hi
