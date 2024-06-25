@@ -2,6 +2,51 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Русское Море
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719155510.jpeg
+http://stream.pcradio.ru:8000/rad_rusmoryr-hi
+
+#PCRADIOLIST
+#EXTINF:-1,EvoHit
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719156212.jpeg
+http://stream.pcradio.ru:8000/rad_evohtru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Sun Way Radio
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719156850.jpeg
+http://stream.pcradio.ru:8000/rad_sunwyru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Radioactiva 99.7 FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719159564.jpeg
+http://stream.pcradio.ru:8000/rad_rdactivgr-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Enigmatic Senses
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719161826.jpeg
+http://stream.pcradio.ru:8000/rad_engmtcsesns-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Культурное радио Голос Руси
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719162819.jpeg
+http://stream.pcradio.ru:8000/rad_culturgolsrus-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Гордость
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719163593.jpeg
+http://stream.pcradio.ru:8000/rad_rgordostru-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Русский мир
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719165189.jpeg
+http://stream.pcradio.ru:8000/rad_russkymir-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Space Beat
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719165979.jpeg
+http://stream.pcradio.ru:8000/rad_spacbeatru-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Sport Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715813534.jpeg
 http://stream.pcradio.ru:8000/rad_rprsporrdge-hi
@@ -123,7 +168,7 @@ http://stream.pcradio.ru:8000/rad_wilnrkg-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Радио Россошь
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1712675540.jpeg
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719150667.jpeg
 http://stream.pcradio.ru:8000/rad_rossschru-hi
 
 #PCRADIOLIST
@@ -1233,7 +1278,7 @@ http://stream.pcradio.ru:8000/rad_kbrdnbolkary-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Радио Новая Волна Биробиджан
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1697399105.jpeg
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719150768.jpeg
 http://stream.pcradio.ru:8000/rad_ppfmbirobdzhn-hi
 
 #PCRADIOLIST
@@ -1460,11 +1505,6 @@ http://stream.pcradio.ru:8000/rad_sevrosttn-hi
 #EXTINF:-1,Radio 107 Network
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1692110992.jpeg
 http://stream.pcradio.ru:8000/rad_rd107ntwrk-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Радио SKYLEGEND
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1692111295.jpeg
-http://stream.pcradio.ru:8000/rad_skylgndfr-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Yurd FM
@@ -3748,7 +3788,7 @@ http://stream.pcradio.ru:8000/rad_ubrd-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio Under
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1669148040.jpeg
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1718665604.jpeg
 http://stream.pcradio.ru:8000/rad_rdnde-hi
 
 #PCRADIOLIST
@@ -4402,11 +4442,6 @@ http://stream.pcradio.ru:8000/rad_drugpro-hi
 http://stream.pcradio.ru:8000/rad_frohe-hi
 
 #PCRADIOLIST
-#EXTINF:-1,vorleser.net-Radio - Weihnachten
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618050619.png
-http://stream.pcradio.ru:8000/rad_weih-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Web  Rádio Capital do Tomate
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1617487424.jpeg
 http://stream.pcradio.ru:8000/rad_tomat-hi
@@ -4447,11 +4482,6 @@ http://stream.pcradio.ru:8000/rad_r-hi
 http://stream.pcradio.ru:8000/rad_zlote-hi
 
 #PCRADIOLIST
-#EXTINF:-1,vorleser.net-Radio - Märchenzeit
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618050565.png
-http://stream.pcradio.ru:8000/rad_zeit-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Радио Рекорд Chill House
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618051114.jpeg
 http://stream.pcradio.ru:8000/rad_rechihou-hi
@@ -4490,11 +4520,6 @@ http://stream.pcradio.ru:8000/rad_doub-hi
 #EXTINF:-1,Радио Сибирь (Омск)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618052092.jpeg
 http://stream.pcradio.ru:8000/rad_om-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Radio Spannung
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618050661.png
-http://stream.pcradio.ru:8000/rad_vospan-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Абсолют Парк радио
@@ -4710,11 +4735,6 @@ http://stream.pcradio.ru:8000/settai_fm-hi
 #EXTINF:-1,Твоя волна
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1612271425.jpeg
 http://stream.pcradio.ru:8000/tvoya_volna-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Club One Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1612271710.jpeg
-http://stream.pcradio.ru:8000/club_one-hi
 
 #PCRADIOLIST
 #EXTINF:-1,NRK Jazz
@@ -15957,11 +15977,6 @@ http://stream.pcradio.ru:8000/zhuldyz_fm-hi
 http://stream.pcradio.ru:8000/radiostalica_by-hi
 
 #PCRADIOLIST
-#EXTINF:-1,ЕкоРадіо
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1457004185.jpeg
-http://stream.pcradio.ru:8000/ekoradio_com_ua-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Irish Pub Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1457005004.jpeg
 http://stream.pcradio.ru:8000/irish_pub_radio-hi
@@ -19242,8 +19257,8 @@ http://stream.pcradio.ru:8000/starfm_tallinn-hi
 http://stream.pcradio.ru:8000/dfm_tallinn-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Русское 90,6 (Таллинн)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1453552253.jpeg
+#EXTINF:-1,Super Радио
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719152939.jpeg
 http://stream.pcradio.ru:8000/russkoe_estonia-hi
 
 #PCRADIOLIST
