@@ -1257,11 +1257,6 @@ http://stream.pcradio.ru:8000/rad_donskyrdtg-hi
 http://stream.pcradio.ru:8000/rad_relfreshfm-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Радио КБР 99.5 FM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1693571125.jpeg
-http://stream.pcradio.ru:8000/rad_kbrdnbolkary-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Радио Новая Волна Биробиджан
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719150768.jpeg
 http://stream.pcradio.ru:8000/rad_ppfmbirobdzhn-hi
@@ -1655,11 +1650,6 @@ http://stream.pcradio.ru:8000/rad_bkfrks-hi
 #EXTINF:-1,Радио Белем
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1685741036.jpeg
 http://stream.pcradio.ru:8000/rad_blmrdkz-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Радио Русские Популярные Песни
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1685741711.jpeg
-http://stream.pcradio.ru:8000/rad_rdrssnpplrsngs-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Юное Радио
@@ -6132,11 +6122,6 @@ http://stream.pcradio.ru:8000/erstea_xmas-hi
 http://stream.pcradio.ru:8000/erstea_weihnacht-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Radio CdiS - Castel di Sangro
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1587637154.jpeg
-http://stream.pcradio.ru:8000/rad_itcdis-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Свой стиль
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1669642289.jpeg
 http://stream.pcradio.ru:8000/svoystil_rock-hi
@@ -6230,11 +6215,6 @@ http://stream.pcradio.ru:8000/sharmanka_moz-hi
 #EXTINF:-1,Ballermann Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1587132221.jpeg
 http://stream.pcradio.ru:8000/ballermann_radio_de-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Megapark Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1587132420.jpeg
-http://stream.pcradio.ru:8000/megapark_baller-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio Free Music (RFM)
@@ -21810,11 +21790,6 @@ http://stream.pcradio.ru:8000/glagoll-hi
 #EXTINF:-1,Morow
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1481984814.jpeg
 http://stream.pcradio.ru:8000/morow_rock-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Север FM 87,5
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1481984974.jpeg
-http://stream.pcradio.ru:8000/sever_fm-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Record Minimal/Tech
