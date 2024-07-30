@@ -522,11 +522,6 @@ http://stream.pcradio.ru:8000/sabaton-hi
 http://stream.pcradio.ru:8000/rad_narshingbarrd-hi
 
 #PCRADIOLIST
-#EXTINF:-1,FM Free
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710624862.jpeg
-http://stream.pcradio.ru:8000/rad_fmfree-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Aspan FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1710626082.jpeg
 http://stream.pcradio.ru:8000/rad_spankz-hi
@@ -1297,8 +1292,8 @@ http://stream.pcradio.ru:8000/rad_donskyrdtg-hi
 http://stream.pcradio.ru:8000/rad_relfreshfm-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Радио Новая Волна Биробиджан
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1719150768.jpeg
+#EXTINF:-1,POP FM  Биробиджан 107.9 FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1722294912.jpeg
 http://stream.pcradio.ru:8000/rad_ppfmbirobdzhn-hi
 
 #PCRADIOLIST
@@ -1380,11 +1375,6 @@ http://stream.pcradio.ru:8000/rad_rdantlgy-hi
 #EXTINF:-1,Master Class FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1693439773.jpeg
 http://stream.pcradio.ru:8000/rad_mstrclassmd-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Радио LOOK INFO
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1693320045.jpeg
-http://stream.pcradio.ru:8000/rad_rdlkinf-hi
 
 #PCRADIOLIST
 #EXTINF:-1,DFM AfroVibes
@@ -4317,11 +4307,6 @@ http://stream.pcradio.ru:8000/rad_itrom-hi
 http://stream.pcradio.ru:8000/rad_ukbg-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Melon Radio - Alternative
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618848315.jpeg
-http://stream.pcradio.ru:8000/rad_melal-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Radio Nürburgring powered by RPR1
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618667615.jpeg
 http://stream.pcradio.ru:8000/rad_derp-hi
@@ -4330,11 +4315,6 @@ http://stream.pcradio.ru:8000/rad_derp-hi
 #EXTINF:-1,Удалое радио 104,1 FM (Нижнеудинск)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618668111.jpeg
 http://stream.pcradio.ru:8000/rad_udnizh-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Melon Radio - Lounge
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1618669177.jpeg
-http://stream.pcradio.ru:8000/rad_melru-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radio Mirchi 98.3 Delhi
@@ -4630,11 +4610,6 @@ http://stream.pcradio.ru:8000/italian_radio-hi
 #EXTINF:-1,Родничокъ
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1612267482.jpeg
 http://stream.pcradio.ru:8000/rodnichok_bel-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Кафе Мечты
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1612268550.jpeg
-http://stream.pcradio.ru:8000/kafe_mechty-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Virgin Radio Romania
@@ -5240,11 +5215,6 @@ http://stream.pcradio.ru:8000/etotic_lounge-hi
 #EXTINF:-1,Душевный Восторг
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1604604881.jpeg
 http://stream.pcradio.ru:8000/dushevny_vostorg-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Zero Music
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1675444707.jpeg
-http://stream.pcradio.ru:8000/zeromusic-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Record Trancehouse
@@ -11037,11 +11007,6 @@ http://stream.pcradio.ru:8000/radio54_1062fm-hi
 http://stream.pcradio.ru:8000/sp_deep-hi
 
 #PCRADIOLIST
-#EXTINF:-1,WKAR
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1518462739.jpeg
-http://stream.pcradio.ru:8000/wkar_org-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Rockland Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1518462888.jpeg
 http://stream.pcradio.ru:8000/rockland_de-hi
@@ -11160,11 +11125,6 @@ http://stream.pcradio.ru:8000/alter_world_laut-hi
 #EXTINF:-1,Vibe-in Radio
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1515857528.jpeg
 http://stream.pcradio.ru:8000/vibe_in_com-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Mikrasiatis Radio
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1515857628.jpeg
-http://stream.pcradio.ru:8000/mikrasiatis_gr-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Gold FM 93.2
@@ -13142,7 +13102,7 @@ http://stream.pcradio.ru:8000/zefir_fm-hi
 http://stream.pcradio.ru:8000/dfm_krasnodar-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Дорожное - Танцпол
+#EXTINF:-1,Дорожное - Танцы по-русски
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1651523453.jpeg
 http://stream.pcradio.ru:8000/dorozhnoe_rudance-hi
 
@@ -15400,11 +15360,6 @@ http://stream.pcradio.ru:8000/petlyura_yuriy_barabash-hi
 #EXTINF:-1,Пилот
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1461100857.jpeg
 http://stream.pcradio.ru:8000/pilot-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Потап и Настя
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1461101399.jpeg
-http://stream.pcradio.ru:8000/potap_nastya-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Radiohead
@@ -21357,11 +21312,6 @@ http://stream.pcradio.ru:8000/wwwactivafm-hi
 http://stream.pcradio.ru:8000/bayradionorth-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Radio BUH
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1584149685.jpeg
-http://stream.pcradio.ru:8000/buh_rocks-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Cadena Cope (Мадрид)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1447152247.jpeg
 http://stream.pcradio.ru:8000/wwwcopees-hi
@@ -21370,11 +21320,6 @@ http://stream.pcradio.ru:8000/wwwcopees-hi
 #EXTINF:-1,Qfm 94.3 (Тенерифе)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1447153674.jpeg
 http://stream.pcradio.ru:8000/qfm943-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Радио Германия
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1447154158.jpeg
-http://stream.pcradio.ru:8000/radiogermanijade-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Веда-радио
@@ -21770,11 +21715,6 @@ http://stream.pcradio.ru:8000/morow_rock-hi
 #EXTINF:-1,Record Minimal/Tech
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1481985411.jpeg
 http://stream.pcradio.ru:8000/record_minimal-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Первое портальное
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1490833543.jpeg
-http://stream.pcradio.ru:8000/pervoe_portalnoe-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Радіо з Криївки (RzK)
