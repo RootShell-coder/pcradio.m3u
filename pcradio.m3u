@@ -2,6 +2,36 @@
 #EXTENC:UTF-8
 
 #PCRADIOLIST
+#EXTINF:-1,Рок-Атака 
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1722733291.jpeg
+http://stream.pcradio.ru:8000/rad_rockatack-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Naga FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1722733771.jpeg
+http://stream.pcradio.ru:8000/rad_narfm-hi
+
+#PCRADIOLIST
+#EXTINF:-1,HIT FM Uzbekistan
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1722734004.jpeg
+http://stream.pcradio.ru:8000/rad_htfmuzbekstan-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Plastinka
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1722734679.jpeg
+http://stream.pcradio.ru:8000/rad_plastinkrus-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Волгоград FM
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1722735470.jpeg
+http://stream.pcradio.ru:8000/rad_volgogrdfm-hi
+
+#PCRADIOLIST
+#EXTINF:-1,Радио Лето Екатеринбург
+#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1722735743.jpeg
+http://stream.pcradio.ru:8000/rad_rdletoktrnburg-hi
+
+#PCRADIOLIST
 #EXTINF:-1,Радио СИТИ
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1721140644.jpeg
 http://stream.pcradio.ru:8000/rad_rdcityru-hi
@@ -3032,11 +3062,6 @@ http://stream.pcradio.ru:8000/rad_rzszwpl-hi
 http://stream.pcradio.ru:8000/rad_rbcrdnt-hi
 
 #PCRADIOLIST
-#EXTINF:-1,Rock FM (Киев)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1656604145.jpeg
-http://stream.pcradio.ru:8000/rad_clsscrckua-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Cassiopeia Station (Наука)
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1656604509.jpeg
 http://stream.pcradio.ru:8000/rad_csspsttnscnc-hi
@@ -4565,11 +4590,6 @@ http://stream.pcradio.ru:8000/rad_am-hi
 #EXTINF:-1,Радио Хорошего Настроения Хабаровск 101,8FM
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1616696444.jpeg
 http://stream.pcradio.ru:8000/rad_horoshee-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Мост радио (Пенза)
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1616697490.jpeg
-http://stream.pcradio.ru:8000/rad_most-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Dale Fm
@@ -19287,11 +19307,6 @@ http://stream.pcradio.ru:8000/rpr1_hitskids-hi
 http://stream.pcradio.ru:8000/radiolikefm_ru-hi
 
 #PCRADIOLIST
-#EXTINF:-1,RussianFM
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450784451.jpeg
-http://stream.pcradio.ru:8000/russianfm_de-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Electrozombies
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1450785814.jpeg
 http://stream.pcradio.ru:8000/electrozombies_com-hi
@@ -20335,11 +20350,6 @@ http://stream.pcradio.ru:8000/radiozet_pl-hi
 #EXTINF:-1,Народное радио
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1448632669.jpeg
 http://stream.pcradio.ru:8000/narodnoeradio_ee-hi
-
-#PCRADIOLIST
-#EXTINF:-1,Lounge FM 96
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1448634702.jpeg
-http://stream.pcradio.ru:8000/loungefm_net-hi
 
 #PCRADIOLIST
 #EXTINF:-1,Маяк
