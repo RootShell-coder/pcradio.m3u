@@ -142,11 +142,6 @@ http://stream.pcradio.ru:8000/rad_superrdru-hi
 http://stream.pcradio.ru:8000/rad_megaplslyantrru-hi
 
 #PCRADIOLIST
-#EXTINF:-1,РЕТРО Хит
-#EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715815947.jpeg
-http://stream.pcradio.ru:8000/rad_retrhtkrd-hi
-
-#PCRADIOLIST
 #EXTINF:-1,Technolovers - HYPERTECHNO
 #EXTIMG:http://stream.pcradio.ru/list/thumbnail/thumbnail90/1715816551.jpeg
 http://stream.pcradio.ru:8000/rad_technlvrshypertchn-hi
