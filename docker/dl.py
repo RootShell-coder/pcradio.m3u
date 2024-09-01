@@ -42,7 +42,7 @@ def m3u():
     for i in dict_data["stations"]:
         print(f'#EXTINF:-1,{i["name"]}')
         print(f'#EXTVLCOPT:http-user-agent={USER_AGENT}')
-        print(f'#EXTIMG:{i["logo"]}')
+        # print(f'#EXTIMG:{i["logo"]}')
         print(f'{i["stream"]}-hi\n')
     js_file.close()
 
