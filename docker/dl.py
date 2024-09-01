@@ -16,6 +16,7 @@ parser_format = argv  # e.g. (m3u, uri)
 LANG = 'ru'
 URL = f'http://stream.pcradio.ru/list/list_{LANG}/list_{LANG}.zip'
 ZIPPASS = bytes(os.getenv('ZIPPASSWORD'), "utf-8")
+USER_AGENT = os.getenv('UA')
 
 def get_json_playlist(download_zip_file):
     headers = {'User-Agent': 'pcradio'}
@@ -31,9 +32,7 @@ def get_json_playlist(download_zip_file):
         with open(f'list_{LANG}.json', 'wb') as jf:
             jf.write(json_file)
 
-
 get_json_playlist(URL)
-
 
 def m3u():
     js_file = open(f'list_{LANG}.json', 'r', encoding='utf-8')
@@ -42,11 +41,10 @@ def m3u():
     print("#EXTENC:UTF-8\n")
     for i in dict_data["stations"]:
         print(f'#EXTINF:-1,{i["name"]}')
-        print(f'#EXTVLCOPT:http-user-agent={UA}')
+        print(f'#EXTVLCOPT:http-user-agent={USER_AGENT}')
         print(f'#EXTIMG:{i["logo"]}')
         print(f'{i["stream"]}-hi\n')
     js_file.close()
-
 
 def uri():
     js_file = open(f'list_{LANG}.json', 'r', encoding='utf-8')
@@ -54,7 +52,6 @@ def uri():
     for i in dict_data["stations"]:
         print(f'{i["stream"]}-hi')
     js_file.close()
-
 
 match parser_format[1]:
     case "m3u":
