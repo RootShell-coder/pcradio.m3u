@@ -16,7 +16,7 @@ parser_format = argv  # e.g. (m3u, uri)
 LANG = 'en'
 URL = f'http://stream.pcradio.ru/list/list_{LANG}/list_{LANG}.zip'
 ZIPPASS = bytes(os.getenv('ZIPPASSWORD'), "utf-8")
-USER_AGENT = os.getenv('UA')
+USER_AGENT = "coming_soon" #os.getenv('UA')
 
 def get_json_playlist(download_zip_file):
     headers = {'User-Agent': 'pcradio'}
