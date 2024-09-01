@@ -1,7 +1,7 @@
 name: pcradio
 on:
   schedule:
-    - cron: '30 20 * * *'
+    - cron: "30 20 * * *"
   push:
     branches: ["master"]
   pull_request:
@@ -15,7 +15,7 @@ jobs:
       - name: Build image
         run: docker build -t pcm3u -f docker/Dockerfile .
       - name: Get m3u
-        run: docker run -i -e ZIPPASSWORD=${{ secrets.ZIPPASSWORD }} --rm pcm3u m3u > pcradio.m3u
+        run: docker run -i -e ZIPPASSWORD=${{ secrets.ZIPPASSWORD }} -e UA=${{ secrets.UA }} --rm pcm3u m3u > pcradio.m3u
       - name: Get uri
         run: docker run -i -e ZIPPASSWORD=${{ secrets.ZIPPASSWORD }} --rm pcm3u uri > pcradio.uri
       - name: Create report file
@@ -25,5 +25,5 @@ jobs:
         with:
           author_name: RootShell-coder
           author_email: Root.Shelling@gmail.com
-          message: 'upd'
-          add: 'pcradio.*'
+          message: "upd"
+          add: "pcradio.*"
