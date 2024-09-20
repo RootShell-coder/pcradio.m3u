@@ -1,6 +1,42 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Bhaktiworld Media Meditation
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_bhaktiworldmed-hi
+
+#EXTINF:-1,Altay FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_altaifmrd-hi
+
+#EXTINF:-1,Radio-9
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_radnine-hi
+
+#EXTINF:-1,Dirty Night Bass Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_dnbpgr-hi
+
+#EXTINF:-1,Zaycev FM - K-Pop
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_zcvfmkpop-hi
+
+#EXTINF:-1,Radio Lider FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_ldrfmby-hi
+
+#EXTINF:-1,Staroe Radio - Detskoe
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_stardetsrd-hi
+
+#EXTINF:-1,RadioShakh
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdshakh-hi
+
+#EXTINF:-1,Breaking Bass AIR
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_brakngbassr-hi
+
 #EXTINF:-1,Radio Rayon FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_ryonfm-hi
