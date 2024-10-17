@@ -1,6 +1,30 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Zabytaya kasseta
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/raf_zabitaycasstru-hi
+
+#EXTINF:-1,Radio Classica (Milano)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdclassit-hi
+
+#EXTINF:-1,Radio Elena
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdelenru-hi
+
+#EXTINF:-1,Radio Monte Carlo VIP Lounge
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdmonteviplngit-hi
+
+#EXTINF:-1,LOOK INFO
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_lookinfru-hi
+
+#EXTINF:-1,Wicked Beats Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_wickedbtsrduk-hi
+
 #EXTINF:-1,Bhaktiworld Media Meditation
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_bhaktiworldmed-hi
@@ -36,10 +60,6 @@ http://stream.pcradio.ru:8000/rad_rdshakh-hi
 #EXTINF:-1,Breaking Bass AIR
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_brakngbassr-hi
-
-#EXTINF:-1,Radio Rayon FM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_ryonfm-hi
 
 #EXTINF:-1,Barsuk FM
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -1673,10 +1693,6 @@ http://stream.pcradio.ru:8000/rad_rtrclbrdttr-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_vstnkrp-hi
 
-#EXTINF:-1,Golden Chario Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_gldnchrtr-hi
-
 #EXTINF:-1,Radyo 45lik
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdy45lk-hi
@@ -2949,10 +2965,6 @@ http://stream.pcradio.ru:8000/rad_vrddbrsl-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_trpttr-hi
 
-#EXTINF:-1,Raj radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rrd-hi
-
 #EXTINF:-1,Dork Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rddrk-hi
@@ -3164,10 +3176,6 @@ http://stream.pcradio.ru:8000/golos_istiny-hi
 #EXTINF:-1,Classic Hits (Brazil)
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_clsschts-hi
-
-#EXTINF:-1,Kalejdoskop
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_kljdskp-hi
 
 #EXTINF:-1,Radio Dolce Vita
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -6341,10 +6349,6 @@ http://stream.pcradio.ru:8000/defe_panama-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/trance_one-hi
 
-#EXTINF:-1,Tanănana
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/tananana_ro-hi
-
 #EXTINF:-1,Raduga 100.8 FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/raduga_lt-hi
@@ -7713,10 +7717,6 @@ http://stream.pcradio.ru:8000/radiocity_hindy-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/bolly_beyond-hi
 
-#EXTINF:-1,Radio Mirchi 98.3 FM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/mirchi_983-hi
-
 #EXTINF:-1,Radio Bolid 88.0 FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/bolid_perm-hi
@@ -8808,14 +8808,6 @@ http://stream.pcradio.ru:8000/vibe_in_com-hi
 #EXTINF:-1,Gold FM 93.2
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/goldfm_932-hi
-
-#EXTINF:-1,BluesMen Channel - Hits
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/bluesmen_hits-hi
-
-#EXTINF:-1,BluesMen Channel - Gold
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/bluesmen_gold-hi
 
 #EXTINF:-1,Radio AM 750
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -14825,10 +14817,6 @@ http://stream.pcradio.ru:8000/partyvibe_trance-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/partyvibe_rap-hi
 
-#EXTINF:-1,Party Vibe Pop - Indie
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/partyvibe_pop-hi
-
 #EXTINF:-1,Party Vibe Reggae - Roots
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/partyvibe_reggae-hi
@@ -17084,10 +17072,6 @@ http://stream.pcradio.ru:8000/one_rock_replay-hi
 #EXTINF:-1,1.FM Club 1
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/one_club1-hi
-
-#EXTINF:-1,1.FM Country One
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/one_country_one-hi
 
 #EXTINF:-1,1.FM Deep House
 #EXTVLCOPT:http-user-agent=coming_soon
