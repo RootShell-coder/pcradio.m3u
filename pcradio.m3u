@@ -1,6 +1,34 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Golden Planet
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_gplanet-hi
+
+#EXTINF:-1,Radio Kult
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_radiokult-hi
+
+#EXTINF:-1,Panel House Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdpanelkdm-hi
+
+#EXTINF:-1,Sunset Chillout Lounge
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_sunsetchlltloung-hi
+
+#EXTINF:-1,Radio Nebesnyh Sfer
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_nebesmhsfer-hi
+
+#EXTINF:-1,Record Сказ­ки MC V
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_recordskazkmcv-hi
+
+#EXTINF:-1,Radio Animalogiya
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdanimlgya-hi
+
 #EXTINF:-1,Zabytaya kasseta
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/raf_zabitaycasstru-hi
@@ -144,10 +172,6 @@ http://stream.pcradio.ru:8000/rad_rdactivgr-hi
 #EXTINF:-1,Enigmatic Senses
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_engmtcsesns-hi
-
-#EXTINF:-1,Cultural radio Golos Rusi
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_culturgolsrus-hi
 
 #EXTINF:-1,Radio Gordost
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -577,10 +601,6 @@ http://stream.pcradio.ru:8000/rad_timslfmuz-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdgldwbrad-hi
 
-#EXTINF:-1,Radio Sharmanka
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_shrmank-hi
-
 #EXTINF:-1,Pervoe radio Kubani
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_pervkubanfm-hi
@@ -881,10 +901,6 @@ http://stream.pcradio.ru:8000/rad_rcrdchrismaschll-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_dancukrd-hi
 
-#EXTINF:-1,Malahit FM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_mlahitfmrd-hi
-
 #EXTINF:-1,YapaRadio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_yaprd-hi
@@ -948,10 +964,6 @@ http://stream.pcradio.ru:8000/rad_chatkfmrd-hi
 #EXTINF:-1,Record Lo-Fi House
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rcrdlofihsrd-hi
-
-#EXTINF:-1,WSRADIO
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_wsrockrd-hi
 
 #EXTINF:-1,Uletay Radio
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -2401,10 +2413,6 @@ http://stream.pcradio.ru:8000/rad_pwrplstr-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_pwrkvtr-hi
 
-#EXTINF:-1,Radio Dreamers Ireland
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rddrmrs-hi
-
 #EXTINF:-1,SUPER - RADIO Remix
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_sprradr-hi
@@ -3380,10 +3388,6 @@ http://stream.pcradio.ru:8000/rad_kirevroppls-hi
 #EXTINF:-1,Sociedad Creativa FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_essoccreat-hi
-
-#EXTINF:-1,Masters of Hardcore Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_mashard-hi
 
 #EXTINF:-1,Brezhnev FM
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -6232,10 +6236,6 @@ http://stream.pcradio.ru:8000/delux_radio-hi
 #EXTINF:-1,Classic Hits Forest Gold
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/forestfold_class-hi
-
-#EXTINF:-1,Radio Chesnok 18+
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/chesnok_re-hi
 
 #EXTINF:-1,RusRadioMarbella (RRM)
 #EXTVLCOPT:http-user-agent=coming_soon
