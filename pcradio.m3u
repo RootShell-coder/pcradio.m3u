@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Radio Euro Disco
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_eurodisco-hi
+
+#EXTINF:-1,Chillsperience Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_chillspriencemd-hi
+
 #EXTINF:-1,Golden Planet
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_gplanet-hi
@@ -632,10 +640,6 @@ http://stream.pcradio.ru:8000/rad_rdkvardaci-hi
 #EXTINF:-1,Gus Fonk
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_gusphnk-hi
-
-#EXTINF:-1,K-Pop Dream Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_kpopdrmpp-hi
 
 #EXTINF:-1,Oldschool Hiphop
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -1377,10 +1381,6 @@ http://stream.pcradio.ru:8000/rad_d2rlxcm-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_prgrmqrd-hi
 
-#EXTINF:-1,Radio Fresh
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rdftrshr-hi
-
 #EXTINF:-1,1.FM Ambient Psychill
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_fmmbntpsm-hi
@@ -2032,10 +2032,6 @@ http://stream.pcradio.ru:8000/rad_slsrd-hi
 #EXTINF:-1,Radio RCA
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_radrc-hi
-
-#EXTINF:-1,SPEED GARAGE
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_spdgrg-hi
 
 #EXTINF:-1,Naxi Radio 96.9 FM
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -5060,10 +5056,6 @@ http://stream.pcradio.ru:8000/celtic_rock_de-hi
 #EXTINF:-1,Rock FM (Bucharest)
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rockfm_ro-hi
-
-#EXTINF:-1,ALOsertao Sertaneja
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/alosertao-hi
 
 #EXTINF:-1,Go FM (Sibiu)
 #EXTVLCOPT:http-user-agent=coming_soon
