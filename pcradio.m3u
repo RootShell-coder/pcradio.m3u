@@ -1,6 +1,46 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,LOS40 Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_losfrdancees-hi
+
+#EXTINF:-1,Kafa Radyo
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_kaftrrd-hi
+
+#EXTINF:-1,Radio Jat
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdjarsbr-hi
+
+#EXTINF:-1,Deluxe Lounge Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_deluxlivde-hi
+
+#EXTINF:-1,Lime Teens
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_limetnsru-hi
+
+#EXTINF:-1,Radio Ekaterinburg Fm
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_katerinburgfmru-hi
+
+#EXTINF:-1,100% Acid Jazz
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_cidjzzcan-hi
+
+#EXTINF:-1,Russian Drive
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_russkiydrivru-hi
+
+#EXTINF:-1,Ulyanovsk FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_ulskfmru-hi
+
+#EXTINF:-1,Krasnoyarsk FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_krasnoyarskfm-hi
+
 #EXTINF:-1,Radio Euro Disco
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_eurodisco-hi
@@ -345,10 +385,6 @@ http://stream.pcradio.ru:8000/rad_avnrtmpop-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdnorfolk-hi
 
-#EXTINF:-1,Radiare online
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rdiarenln-hi
-
 #EXTINF:-1,Infinite Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_infinitrd-hi
@@ -580,10 +616,6 @@ http://stream.pcradio.ru:8000/rad_rlxfmdlyuikenda-hi
 #EXTINF:-1,sunshine live - Melodic Beats
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_snhnlvmelodic-hi
-
-#EXTINF:-1,Radio Stop
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rdstopru-hi
 
 #EXTINF:-1,Record Rap Classics
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -2345,10 +2377,6 @@ http://stream.pcradio.ru:8000/rad_flxsndfbrln-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_bstdpfm-hi
 
-#EXTINF:-1,Maestro FM 97.7 (Kishinev)
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_mstrmd-hi
-
 #EXTINF:-1,Arctic Outpost Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rctcno-hi
@@ -2504,10 +2532,6 @@ http://stream.pcradio.ru:8000/rad_mlrdpl-hi
 #EXTINF:-1,DZMB Love Radio 90.7 FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_lvrdcomph-hi
-
-#EXTINF:-1,Radio Metal
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rdmtl-hi
 
 #EXTINF:-1,Non Stop Hindi
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -3676,10 +3700,6 @@ http://stream.pcradio.ru:8000/oderwelle_de-hi
 #EXTINF:-1,One World Radio - Daybreak Sessions
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/owr_daybreaksess-hi
-
-#EXTINF:-1,Iskra FM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/iskrafm_com-hi
 
 #EXTINF:-1,Novaya volna 102.0 FM
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -5212,10 +5232,6 @@ http://stream.pcradio.ru:8000/kurganfm_ru-hi
 #EXTINF:-1,Radio Cidade Mix
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/cidademix_br-hi
-
-#EXTINF:-1,Radio Click Romania
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/radioclick_ro-hi
 
 #EXTINF:-1,Signál Rádio (Brno)
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -14941,10 +14957,6 @@ http://stream.pcradio.ru:8000/virgin_radio_turk-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/starfm_tallinn-hi
 
-#EXTINF:-1,DFM 90,2 (Tallinn)
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/dfm_tallinn-hi
-
 #EXTINF:-1,Super Радио
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/russkoe_estonia-hi
@@ -15721,10 +15733,6 @@ http://stream.pcradio.ru:8000/soulplay_ru-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/hundred61_fm-hi
 
-#EXTINF:-1,Fresh Rock
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/freshrock_net-hi
-
 #EXTINF:-1,Karc FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/karcfm_hu-hi
@@ -16220,10 +16228,6 @@ http://stream.pcradio.ru:8000/kazak_fm-hi
 #EXTINF:-1,bigFM Groove Night
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/bigfm_groove-hi
-
-#EXTINF:-1,bigFM Urban Club Beats
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/bigfm_urban-hi
 
 #EXTINF:-1,Radio 13
 #EXTVLCOPT:http-user-agent=coming_soon
