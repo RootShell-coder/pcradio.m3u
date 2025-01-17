@@ -1,6 +1,46 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Happy Station
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_happysttn-hi
+
+#EXTINF:-1,Hit Music Planet Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_hitmusicplnt-hi
+
+#EXTINF:-1,bigFM Tomorrowland One World
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_bigfmtomorrowlandnwrld-hi
+
+#EXTINF:-1,Sibirskaya Stanciya
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_siberiansttn-hi
+
+#EXTINF:-1,Enigmatic Immersion
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_enigmaticmmersn-hi
+
+#EXTINF:-1,Radio Gimalai
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_radgimal-hi
+
+#EXTINF:-1,Caspian Radio Boss
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_bosscomz-hi
+
+#EXTINF:-1,Volna FM Volgograd
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_volgogrdnvolna-hi
+
+#EXTINF:-1,Rock Volna
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rockwoln-hi
+
+#EXTINF:-1,Radio Animalogiya
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_animalogy-hi
+
 #EXTINF:-1,LOS40 Dance
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_losfrdancees-hi
@@ -41,7 +81,7 @@ http://stream.pcradio.ru:8000/rad_ulskfmru-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_krasnoyarskfm-hi
 
-#EXTINF:-1,Radio Euro Disco
+#EXTINF:-1,The Disco Paradise - Euro Disco
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_eurodisco-hi
 
@@ -292,10 +332,6 @@ http://stream.pcradio.ru:8000/smokie-hi
 #EXTINF:-1,Galaxy Progressive Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_galaxyprgrssiveru-hi
-
-#EXTINF:-1,Volshebnoe Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_volshbnrdru-hi
 
 #EXTINF:-1,Free Radio Conselve
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -817,7 +853,7 @@ http://stream.pcradio.ru:8000/rad_parllelnmir-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/kirpichi-hi
 
-#EXTINF:-1,Radio Columbia
+#EXTINF:-1,The Disco Paradise - Columbia
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdcolmbus-hi
 
@@ -953,7 +989,7 @@ http://stream.pcradio.ru:8000/rad_fftyfedrlrdiuzel-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_ercsfmrdro-hi
 
-#EXTINF:-1,Radio Epic
+#EXTINF:-1,The Disco Paradise - Epic
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdepccm-hi
 
@@ -977,7 +1013,7 @@ http://stream.pcradio.ru:8000/rad_pwrtutkshdanc-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_arbmxrd-hi
 
-#EXTINF:-1,The Disco Partymix
+#EXTINF:-1,The Disco Paradise - Partymix
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_discprtmix-hi
 
@@ -1185,7 +1221,7 @@ http://stream.pcradio.ru:8000/rad_mrdrus-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rstovrd161fm-hi
 
-#EXTINF:-1,Radio Motown
+#EXTINF:-1,The Disco Paradise - Motown
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdmotwn-hi
 
@@ -1237,7 +1273,7 @@ http://stream.pcradio.ru:8000/rad_rdkrlina-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_bgfmlffocus-hi
 
-#EXTINF:-1,Radio Solar
+#EXTINF:-1,The Disco Paradise - Solar
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdsolrs-hi
 
@@ -1253,7 +1289,7 @@ http://stream.pcradio.ru:8000/rad_frbltzfm-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdyarpr-hi
 
-#EXTINF:-1,Radio Unidisco
+#EXTINF:-1,The Disco Paradise - Unidisco
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rsundscs-hi
 
@@ -1313,7 +1349,7 @@ http://stream.pcradio.ru:8000/rad_rdmngo-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_fortnge-hi
 
-#EXTINF:-1,Radio West End
+#EXTINF:-1,The Disco Paradise - West End
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_westndrd-hi
 
@@ -1445,7 +1481,7 @@ http://stream.pcradio.ru:8000/rad_sctrclssc-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rblldscnght-hi
 
-#EXTINF:-1,Radio Atlantic
+#EXTINF:-1,The Disco Paradise - Atlantic
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdtlntc-hi
 
@@ -1521,7 +1557,7 @@ http://stream.pcradio.ru:8000/rad_nmbtrtr-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_lvrdgrcc-hi
 
-#EXTINF:-1,Radio Italo Disco
+#EXTINF:-1,The Disco Paradise - Italo Disco
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdtldsc-hi
 
@@ -1529,7 +1565,7 @@ http://stream.pcradio.ru:8000/rad_rdtldsc-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_nblrd-hi
 
-#EXTINF:-1,Radio TSOP
+#EXTINF:-1,The Disco Paradise - TSOP
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdtsp-hi
 
@@ -1813,10 +1849,6 @@ http://stream.pcradio.ru:8000/rad_dmchrstmsrm-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdespns-hi
 
-#EXTINF:-1,Mixlab – drum and bass
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad__mxlbs-hi
-
 #EXTINF:-1,KOMPROMIS FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_kmprmspr-hi
@@ -2045,7 +2077,7 @@ http://stream.pcradio.ru:8000/rad_nshshnsns-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_slsrd-hi
 
-#EXTINF:-1,Radio RCA
+#EXTINF:-1,The Disco Paradise - RCA
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_radrc-hi
 
@@ -2105,7 +2137,7 @@ http://stream.pcradio.ru:8000/rad_tbssmz-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_nsnds-hi
 
-#EXTINF:-1,Radio Indie Disco
+#EXTINF:-1,The Disco Paradise - Indie Disco
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdnddsccm-hi
 
@@ -2241,7 +2273,7 @@ http://stream.pcradio.ru:8000/rad_rivierenland_rdrvrnlndrdnl-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdmxb-hi
 
-#EXTINF:-1,Radio Warner Bros.
+#EXTINF:-1,The Disco Paradise - Warner Bros
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdwrnrbrs-hi
 
@@ -2261,7 +2293,7 @@ http://stream.pcradio.ru:8000/rad_thdscplc-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_cnlrd-hi
 
-#EXTINF:-1,Radio Casablanca
+#EXTINF:-1,The Disco Paradise - Casablanca
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdcsblnc-hi
 
@@ -2273,7 +2305,7 @@ http://stream.pcradio.ru:8000/rad_jmpblsscm-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdgs-hi
 
-#EXTINF:-1,Radio Polydor
+#EXTINF:-1,The Disco Paradise - Polydor
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdpldr-hi
 
@@ -2281,7 +2313,7 @@ http://stream.pcradio.ru:8000/rad_rdpldr-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdxsk-hi
 
-#EXTINF:-1,Radio BMG
+#EXTINF:-1,The Disco Paradise - BMG
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdbmgcm-hi
 
@@ -2329,7 +2361,7 @@ http://stream.pcradio.ru:8000/rad_rdkrs-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_tplbnrd-hi
 
-#EXTINF:-1,Radio Concord
+#EXTINF:-1,The Disco Paradise - Concord
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdcncrd-hi
 
@@ -16740,10 +16772,6 @@ http://stream.pcradio.ru:8000/nskz-hi
 #EXTINF:-1,SLAM! FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/slamfmnl-hi
-
-#EXTINF:-1,Pervoe Radio 89.1
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/pervoe_891-hi
 
 #EXTINF:-1,40 Principales (Barcelona)
 #EXTVLCOPT:http-user-agent=coming_soon
