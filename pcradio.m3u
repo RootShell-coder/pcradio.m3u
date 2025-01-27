@@ -133,10 +133,6 @@ http://stream.pcradio.ru:8000/rad_rdelenru-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdmonteviplngit-hi
 
-#EXTINF:-1,LOOK INFO
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_lookinfru-hi
-
 #EXTINF:-1,Wicked Beats Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_wickedbtsrduk-hi
@@ -1796,10 +1792,6 @@ http://stream.pcradio.ru:8000/rad_htslv1-hi
 #EXTINF:-1,Radio DELUXE
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/radiodeluxehostingradioru-hi
-
-#EXTINF:-1,Nashe Radio USA
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/nashereghostingradioru-hi
 
 #EXTINF:-1,CleansingMusic - Beyond Words
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -4669,10 +4661,6 @@ http://stream.pcradio.ru:8000/hannover_de-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/transmundial_gospel-hi
 
-#EXTINF:-1,DIMusic Club Trance
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/dimusicclub_trance-hi
-
 #EXTINF:-1,ArtRemixRadio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/art_remix-hi
@@ -5789,10 +5777,6 @@ http://stream.pcradio.ru:8000/evropa_omsk-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/retrofm_omsk-hi
 
-#EXTINF:-1,Canal Sur Radio Andalucía
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/canalsur_sevi-hi
-
 #EXTINF:-1,BNR Hristo Botev
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/bnr_bg_hrist-hi
@@ -6621,10 +6605,6 @@ http://stream.pcradio.ru:8000/brsswami_com-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/diisradio_ch-hi
 
-#EXTINF:-1,Radio Aktiv 106.5
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/aktiv_1065-hi
-
 #EXTINF:-1,Radio Romania Brașov FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/romania_brasov-hi
@@ -6808,10 +6788,6 @@ http://stream.pcradio.ru:8000/maryja_pl-hi
 #EXTINF:-1,Oldie Welle Niederbayern
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/oldiwelle_com-hi
-
-#EXTINF:-1,Griaß di' Allgäu Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rsa_griass_allgau-hi
 
 #EXTINF:-1,Free FM (Colombo)
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -8401,14 +8377,6 @@ http://stream.pcradio.ru:8000/leradio_mex-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/muzika_sk-hi
 
-#EXTINF:-1,PN Eins Dance
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/pneins_dance-hi
-
-#EXTINF:-1,PN Eins Urban
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/pneins_urban-hi
-
 #EXTINF:-1,RetroPop
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/retropop_es-hi
@@ -8905,7 +8873,7 @@ http://stream.pcradio.ru:8000/pureradio_one-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/clubraysl_ru-hi
 
-#EXTINF:-1,RealFM
+#EXTINF:-1,Real FM Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/realfm_spb-hi
 
@@ -9120,10 +9088,6 @@ http://stream.pcradio.ru:8000/radio_886-hi
 #EXTINF:-1,Arabella (Vienna)
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/arabella_vienna-hi
-
-#EXTINF:-1,Vogtland Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/vogtland_radio-hi
 
 #EXTINF:-1,Radio Salü
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -9808,10 +9772,6 @@ http://stream.pcradio.ru:8000/kavkaz_005-hi
 #EXTINF:-1,Keks (Moscow)
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/keks_moscow-hi
-
-#EXTINF:-1,Radio Stalingrad
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/stalingrad-hi
 
 #EXTINF:-1,Radio Dechovka
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -11493,10 +11453,6 @@ http://stream.pcradio.ru:8000/radionoise_ro-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/senti_chi_parla-hi
 
-#EXTINF:-1,RauteMusik Trap
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rautemusik_trap-hi
-
 #EXTINF:-1,Antenne 1
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/antenne1_de-hi
@@ -11896,10 +11852,6 @@ http://stream.pcradio.ru:8000/tdi_radio-hi
 #EXTINF:-1,TDI Crna Gora
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/tdi_crna_gora-hi
-
-#EXTINF:-1,TDI House
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/tdi_house-hi
 
 #EXTINF:-1,TDI Top40
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -14657,10 +14609,6 @@ http://stream.pcradio.ru:8000/rpr1_de_summer-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/radio7_kz-hi
 
-#EXTINF:-1,Solikamsk FM 100.5
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/solikamsk_fm-hi
-
 #EXTINF:-1,Aplus Rock
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/aplus_rock-hi
@@ -14680,10 +14628,6 @@ http://stream.pcradio.ru:8000/rockradio1-hi
 #EXTINF:-1,Chromanova - Chillout
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/chromanova_chill-hi
-
-#EXTINF:-1,Gorod Kudrovo
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/gorod_kudrovo-hi
 
 #EXTINF:-1,Golos Birmy (Voice of Burma)
 #EXTVLCOPT:http-user-agent=coming_soon
