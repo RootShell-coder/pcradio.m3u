@@ -1,6 +1,42 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Goose Biogroom
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_gusbgroom-hi
+
+#EXTINF:-1,Radio Veter Sibiri
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_vtrsiberyy-hi
+
+#EXTINF:-1,DFM Vocal Drum
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_dfmvcldrum-hi
+
+#EXTINF:-1,MURZILKI FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_murzlkde-hi
+
+#EXTINF:-1,Record Beach Party
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_recordbchprt-hi
+
+#EXTINF:-1,Novaya Rossiya
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_nvros-hi
+
+#EXTINF:-1,Radio 1000 Hits
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_ththndhits-hi
+
+#EXTINF:-1,Voronezh FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_voronzhfm-hi
+
+#EXTINF:-1,Pervoe radio 89.1FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_pervyrd-hi
+
 #EXTINF:-1,Happy Station
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_happysttn-hi
@@ -148,10 +184,6 @@ http://stream.pcradio.ru:8000/rad_altaifmrd-hi
 #EXTINF:-1,Dirty Night Bass Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_dnbpgr-hi
-
-#EXTINF:-1,Zaycev FM - K-Pop
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_zcvfmkpop-hi
 
 #EXTINF:-1,Radio Lider FM
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -3133,18 +3165,6 @@ http://stream.pcradio.ru:8000/rad_bur-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_dfmchll-hi
 
-#EXTINF:-1,Zajcev FM - Zajchata
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_zcvfmzycht-hi
-
-#EXTINF:-1,Zajcev FM - Rap
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_zcvfmrp-hi
-
-#EXTINF:-1,Zajcev FM - Metal
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_zcvfmmtl-hi
-
 #EXTINF:-1,Record Christmas
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rcrchrstms-hi
@@ -5181,26 +5201,6 @@ http://stream.pcradio.ru:8000/rad_qalb-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/novo_tempo-hi
 
-#EXTINF:-1,Zaycev FM - Pop
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/pop_zaycev_fm-hi
-
-#EXTINF:-1,Zaycev FM - Disco
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/disco_zaycev_fm-hi
-
-#EXTINF:-1,Zaycev FM - RnB
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rnb_zaycev_fm-hi
-
-#EXTINF:-1,Zaycev FM - New Rock
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/newrock_zaycev_fm-hi
-
-#EXTINF:-1,Zaycev FM - Club
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/electro_zaycev_fm-hi
-
 #EXTINF:-1,Puls Radio 103,8 FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/puls_radio1038-hi
@@ -5293,17 +5293,9 @@ http://stream.pcradio.ru:8000/hitradio_90s_cz-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/hitradio_80s_cz-hi
 
-#EXTINF:-1,Zaycev FM - Rus
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rus_zaycev_fm-hi
-
 #EXTINF:-1,Hitrádio FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/hitradiofm_cz-hi
-
-#EXTINF:-1,Zaycev FM - Relax
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/relax_zaycev_fm-hi
 
 #EXTINF:-1,Hitrádio Dragon
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -5552,10 +5544,6 @@ http://stream.pcradio.ru:8000/radiocafe_italia-hi
 #EXTINF:-1,Radio Balear
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/balear_palma-hi
-
-#EXTINF:-1,Zaycev FM - RuRock
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rurock_zaycev_fm-hi
 
 #EXTINF:-1,Sensimedia Hip Hop
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -15060,10 +15048,6 @@ http://stream.pcradio.ru:8000/kinozal_tv-hi
 #EXTINF:-1,Transmit (Vologda)
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/transmit_vologda-hi
-
-#EXTINF:-1,Zaycev FM - Russian Shanson
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/zaycev_fm_shanson-hi
 
 #EXTINF:-1,Radio 2x2 FM 102,1
 #EXTVLCOPT:http-user-agent=coming_soon
