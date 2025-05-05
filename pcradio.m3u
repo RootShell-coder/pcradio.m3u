@@ -381,10 +381,6 @@ http://stream.pcradio.ru:8000/rad_cyberfnkru-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_tddiscus-hi
 
-#EXTINF:-1,White Moon
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_whitmnhu-hi
-
 #EXTINF:-1,Orfey - Klassika bez granic
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_orfeyklsskbzgranicru-hi
@@ -1044,10 +1040,6 @@ http://stream.pcradio.ru:8000/rad_ercsfmrdro-hi
 #EXTINF:-1,The Disco Paradise - Epic
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdepccm-hi
-
-#EXTINF:-1,Kaleydoskop Rok
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_kolydskprock-hi
 
 #EXTINF:-1,Vsesoyuznoe Radio
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -3217,10 +3209,6 @@ http://stream.pcradio.ru:8000/golos_istiny-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_clsschts-hi
 
-#EXTINF:-1,Radio Dolce Vita
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rddlc-hi
-
 #EXTINF:-1,Radio Pianica (Bulgaria)
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_pnc-hi
@@ -4900,10 +4888,6 @@ http://stream.pcradio.ru:8000/soldatrus_com-hi
 #EXTINF:-1,Eldorado FM 107.3
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/eldorado_1073-hi
-
-#EXTINF:-1,Radio Sharmanka
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/sharmanka_moz-hi
 
 #EXTINF:-1,Ballermann Radio
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -10209,7 +10193,7 @@ http://stream.pcradio.ru:8000/zefir_fm-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/dfm_krasnodar-hi
 
-#EXTINF:-1,Dorozhnoe - Russian Dance
+#EXTINF:-1,Dorozhnoe - Tancpol
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/dorozhnoe_rudance-hi
 
@@ -13264,10 +13248,6 @@ http://stream.pcradio.ru:8000/Kate_Ryan-hi
 #EXTINF:-1,Kiss
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/Kiss-hi
-
-#EXTINF:-1,2PM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/two_pm-hi
 
 #EXTINF:-1,Dan Brown
 #EXTVLCOPT:http-user-agent=coming_soon
