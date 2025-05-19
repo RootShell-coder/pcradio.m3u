@@ -1,6 +1,22 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Street Beat FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_streetbtfm-hi
+
+#EXTINF:-1,Zheleznogorsk FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_zhelezngrskfm-hi
+
+#EXTINF:-1,Radio Ural – Zhivaya priroda
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_zhivayprird-hi
+
+#EXTINF:-1,Radio ZVEZDA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_zvezdamsc-hi
+
 #EXTINF:-1,RADIOPOWER ONLINE
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdpowrltv-hi
