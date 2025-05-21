@@ -3365,10 +3365,6 @@ http://stream.pcradio.ru:8000/rad_decruncrstms-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_uskslsngeles-hi
 
-#EXTINF:-1,NVC Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_usnvcc-hi
-
 #EXTINF:-1,TNT Music Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rutntmsc-hi
