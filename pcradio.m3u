@@ -405,10 +405,6 @@ http://stream.pcradio.ru:8000/rad_newptdrdru-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_drambsmeinstrru-hi
 
-#EXTINF:-1,Radio Cyberfunk
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_cyberfnkru-hi
-
 #EXTINF:-1,Radio T.K. Disco
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_tddiscus-hi
@@ -500,10 +496,6 @@ http://stream.pcradio.ru:8000/rad_rdnorfolk-hi
 #EXTINF:-1,Infinite Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_infinitrd-hi
-
-#EXTINF:-1,PsyStation Nu Goa
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_pssttinnugoa-hi
 
 #EXTINF:-1,Hiroyuki Sawano
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -1508,10 +1500,6 @@ http://stream.pcradio.ru:8000/rad_rdbtb-hi
 #EXTINF:-1,BK Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_bkfrks-hi
-
-#EXTINF:-1,Radio Belem
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_blmrdkz-hi
 
 #EXTINF:-1,Young Radio
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -4104,10 +4092,6 @@ http://stream.pcradio.ru:8000/hitfm_orte-hi
 #EXTINF:-1,Revolution 93.5 FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/revolution935-hi
-
-#EXTINF:-1,80s Total
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/total80s_de-hi
 
 #EXTINF:-1,RadioTV-Espiritu Santo a las Naciones
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -7177,10 +7161,6 @@ http://stream.pcradio.ru:8000/wjcu_887-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/pulse_87-hi
 
-#EXTINF:-1,Rádio Santorelli
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/santorelli_zeno-hi
-
 #EXTINF:-1,Radio Best
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/radiobest_media-hi
@@ -8296,10 +8276,6 @@ http://stream.pcradio.ru:8000/sunshinelive_80er-hi
 #EXTINF:-1,Ambiento Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/ambiento_ro-hi
-
-#EXTINF:-1,LE Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/leradio_mex-hi
 
 #EXTINF:-1,RetroPop
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -10577,10 +10553,6 @@ http://stream.pcradio.ru:8000/record_naft-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/record_gold-hi
 
-#EXTINF:-1,PsyStation Dark Root Psy Trance
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/psystation_darkroot-hi
-
 #EXTINF:-1,Radio Caprice - Dark Psytrance
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/caprice_darkpsy-hi
@@ -10952,10 +10924,6 @@ http://stream.pcradio.ru:8000/btuners-hi
 #EXTINF:-1,Yes Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/yesradio_it-hi
-
-#EXTINF:-1,Energy FM Australia
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/energyfm_com_au-hi
 
 #EXTINF:-1,Enigmatic station I
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -12776,10 +12744,6 @@ http://stream.pcradio.ru:8000/shamfm_fm-hi
 #EXTINF:-1,ORF Wien
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/orf_wien-hi
-
-#EXTINF:-1,Mix (Luga)
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/luga_rf-hi
 
 #EXTINF:-1,Dismuke
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -16172,10 +16136,6 @@ http://stream.pcradio.ru:8000/rtl_fr-hi
 #EXTINF:-1,Sector Progressive
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/sector_progressive-hi
-
-#EXTINF:-1,Real FM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/radioreal_ru-hi
 
 #EXTINF:-1,Relax FM Latino
 #EXTVLCOPT:http-user-agent=coming_soon
