@@ -1,6 +1,22 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,RADIO DANCE 90s
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_90dancerd-hi
+
+#EXTINF:-1,Neon FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_neonfm-hi
+
+#EXTINF:-1,Real FM Relax
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_realrlx-hi
+
+#EXTINF:-1,Radio EKHO lOSEJ
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_eholosey-hi
+
 #EXTINF:-1,Radio Frisky Deep
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_frisky_dp-hi
@@ -8288,10 +8304,6 @@ http://stream.pcradio.ru:8000/darkedge_ro-hi
 #EXTINF:-1,Euroradio FM - Soft Rock
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/euroradio_soro-hi
-
-#EXTINF:-1,Euroradio FM - Only BY
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/euroradio_by-hi
 
 #EXTINF:-1,Ukrainian Radio in Chicago
 #EXTVLCOPT:http-user-agent=coming_soon
