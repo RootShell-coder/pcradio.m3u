@@ -1,6 +1,26 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Izhor FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_izhorfmuz-hi
+
+#EXTINF:-1,Radio Beryoza
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_beryozfm-hi
+
+#EXTINF:-1,Radio Myata Gold
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_myata-hi
+
+#EXTINF:-1,Vintage Radio Azerbaijan
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_vintagebaku-hi
+
+#EXTINF:-1,DANCE-FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_dancefmrukr-hi
+
 #EXTINF:-1,RADIO DANCE 90s
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_90dancerd-hi
