@@ -1,6 +1,66 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Radio Sovaria
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_sovaryaru-hi
+
+#EXTINF:-1,Super FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_suprby-hi
+
+#EXTINF:-1,GUS. Novogodniy
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_gusnovogdniy-hi
+
+#EXTINF:-1,Vsesoyuznoe radio (Ekaterinburg)
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_vsesoyuzrdural-hi
+
+#EXTINF:-1,Radio Svetoch
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_svetoch-hi
+
+#EXTINF:-1,Radio FG Phonk & Gaming
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad)frgphonk-hi
+
+#EXTINF:-1,Radio EVO HIT
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_evohitru-hi
+
+#EXTINF:-1,Ràdio Ràpita
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdrapitaes-hi
+
+#EXTINF:-1,One DJ Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_onedjru-hi
+
+#EXTINF:-1,Stereo 98
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_stereo98-hi
+
+#EXTINF:-1,Radio Harmony
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_garmoniyafm-hi
+
+#EXTINF:-1,Morskaya volna
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_morvolna-hi
+
+#EXTINF:-1,LoungeFM UKW Wien
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_loungfmvien-hi
+
+#EXTINF:-1,Record Melodic Techno
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_recordmldctechno-hi
+
+#EXTINF:-1,Oriat Dono
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_donouz-hi
+
 #EXTINF:-1,Radio Sgomplus Dance Club
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_sgomplusdanc-hi
@@ -1920,10 +1980,6 @@ http://stream.pcradio.ru:8000/rad_rdnstlgr-hi
 #EXTINF:-1,SUB FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_sbfmsk-hi
-
-#EXTINF:-1,The Sound of Phonk
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_thsndfphnkr-hi
 
 #EXTINF:-1,Radio Christmas EDM Room
 #EXTVLCOPT:http-user-agent=coming_soon
