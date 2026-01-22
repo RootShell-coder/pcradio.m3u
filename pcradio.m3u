@@ -1,6 +1,34 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Stratosfera
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_stratosfera-hi
+
+#EXTINF:-1,Radio Eiffel Paris 
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_eifflparsfr-hi
+
+#EXTINF:-1,Radio Malina
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_mlinaru-hi
+
+#EXTINF:-1,Dance Station Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_dnsrdstattinlv-hi
+
+#EXTINF:-1,Gus OldSchool
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdgseldschool-hi
+
+#EXTINF:-1,Europa FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_erpfm_es-hi
+
+#EXTINF:-1,Golden Collection
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_gldncllectionru-hi
+
 #EXTINF:-1,Radio Sovaria
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_sovaryaru-hi
@@ -72,10 +100,6 @@ http://stream.pcradio.ru:8000/rad_capricercm-hi
 #EXTINF:-1,Pure 24
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_pure24-hi
-
-#EXTINF:-1,RusKol FM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_ruskolfmr-hi
 
 #EXTINF:-1,Radio RBK
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -1341,10 +1365,6 @@ http://stream.pcradio.ru:8000/rad_rtlrdit-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_lvmomntsrd-hi
 
-#EXTINF:-1,Donskoe Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_donskyrdtg-hi
-
 #EXTINF:-1,Real FM Fresh
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_relfreshfm-hi
@@ -2001,10 +2021,6 @@ http://stream.pcradio.ru:8000/rad_lnnrdcm-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_ntrntrdnvrd-hi
 
-#EXTINF:-1,Radio SP12
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rdsp12-hi
-
 #EXTINF:-1,Smooth Jazz Deluxe
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_smthjzzdlx-hi
@@ -2052,10 +2068,6 @@ http://stream.pcradio.ru:8000/rad_trncmscss-hi
 #EXTINF:-1,Uplifting Trance Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_plftngtrncrd-hi
-
-#EXTINF:-1,Radio PRC
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rdrmcm-hi
 
 #EXTINF:-1,Radio Electronauts
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -2164,10 +2176,6 @@ http://stream.pcradio.ru:8000/rad_nglsh99-hi
 #EXTINF:-1,T-ONE RADIO
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_tnrdr-hi
-
-#EXTINF:-1,Djs En Accion Club
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_djsnccnclb-hi
 
 #EXTINF:-1,Night call
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -3361,10 +3369,6 @@ http://stream.pcradio.ru:8000/rad_mntcrlnn-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rmnclj-hi
 
-#EXTINF:-1,Radiospazioweb
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_spziwb-hi
-
 #EXTINF:-1,Dzhem FM (Ekaterinburg)
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_jmfmekat-hi
@@ -3928,10 +3932,6 @@ http://stream.pcradio.ru:8000/rdstation_it_jazz-hi
 #EXTINF:-1,Kompas FM 102,5 FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/kompas_fm-hi
-
-#EXTINF:-1,Radio Top Itatiba
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/top_itatiba-hi
 
 #EXTINF:-1,JAM 66 Radio
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -6125,10 +6125,6 @@ http://stream.pcradio.ru:8000/radiopaloma_kultschla-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/countrymusic24-hi
 
-#EXTINF:-1,Radio Avtodor
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/avtodor_radio-hi
-
 #EXTINF:-1,Big L Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/big_l_radio-hi
@@ -6328,26 +6324,6 @@ http://stream.pcradio.ru:8000/cafedelmar_ga-hi
 #EXTINF:-1,Antenne Frankfurt 95.1
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/anten_frank951-hi
-
-#EXTINF:-1,Donat FM - Russian Rock
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/donat_rusrock-hi
-
-#EXTINF:-1,Donat FM - Russian Shanson
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/donat_shanson-hi
-
-#EXTINF:-1,Donat FM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/donat_whits-hi
-
-#EXTINF:-1,Donat FM - USSR music
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/donat_ussr-hi
-
-#EXTINF:-1,Donat FM - Russian Pop
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/donat_rupop-hi
 
 #EXTINF:-1,Fiesta FM 87.6 (Mallorca)
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -6728,10 +6704,6 @@ http://stream.pcradio.ru:8000/estacaogospel_br-hi
 #EXTINF:-1,Rádio Esperança de Picos
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/esperanca_depicos-hi
-
-#EXTINF:-1,GtronicRadio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/gtronic_us-hi
 
 #EXTINF:-1,United FM Radio Jamz
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -7989,10 +7961,6 @@ http://stream.pcradio.ru:8000/aparecida820-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/namkin_boly-hi
 
-#EXTINF:-1,Hua Hin Music Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/huahin_tai-hi
-
 #EXTINF:-1,Buddha Beach
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/buddha_beach-hi
@@ -8040,10 +8008,6 @@ http://stream.pcradio.ru:8000/dance_wave_retro-hi
 #EXTINF:-1,RAC105
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rac105_barc-hi
-
-#EXTINF:-1,Our Neighborhood Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/our_neighbor-hi
 
 #EXTINF:-1,Interra FM
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -9008,10 +8972,6 @@ http://stream.pcradio.ru:8000/dance90s90s-hi
 #EXTINF:-1,Radio Rossii Ural
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/gtrk_ural-hi
-
-#EXTINF:-1,Staroe Dobroe Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/staroedobroe_ru-hi
 
 #EXTINF:-1,Radio Rossii (Khabarovsk)
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -10080,10 +10040,6 @@ http://stream.pcradio.ru:8000/gbc_gi_plus-hi
 #EXTINF:-1,89.7 Bay
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/bay_897_malta-hi
-
-#EXTINF:-1,Literaturnoe radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/litradio_ru-hi
 
 #EXTINF:-1,Radio Dresden
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -12108,10 +12064,6 @@ http://stream.pcradio.ru:8000/rpr1_de_pur-hi
 #EXTINF:-1,RPR1. Hard Rock
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rpr1_hardrock-hi
-
-#EXTINF:-1,Proton Radio
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/protonradio_com-hi
 
 #EXTINF:-1,TalkRadio
 #EXTVLCOPT:http-user-agent=coming_soon
