@@ -1,6 +1,34 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,POPFM Rock
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_popfmbirrock-hi
+
+#EXTINF:-1,LoFi Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_lofiradio-hi
+
+#EXTINF:-1,NJOY Radio in Russia
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_njoyradioru-hi
+
+#EXTINF:-1,DATASET RADIO 
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_datasetradru-hi
+
+#EXTINF:-1,POPFM Dance
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_popfmbirdance-hi
+
+#EXTINF:-1,Staroe dobroe radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_stroedbrru-hi
+
+#EXTINF:-1,Radio Alisa
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdialisru-hi
+
 #EXTINF:-1,Stratosfera
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_stratosfera-hi
@@ -464,10 +492,6 @@ http://stream.pcradio.ru:8000/rad_narfm-hi
 #EXTINF:-1,HIT FM Uzbekistan
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_htfmuzbekstan-hi
-
-#EXTINF:-1,Radio Plastinka
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_plastinkrus-hi
 
 #EXTINF:-1,Volgograd FM
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -2901,10 +2925,6 @@ http://stream.pcradio.ru:8000/rad_krvdfknnths-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_ntrdb-hi
 
-#EXTINF:-1,Novaya Zhizn
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_nvyzhzn-hi
-
 #EXTINF:-1,Radio Micul Samaritean
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_mclsmrtn-hi
@@ -3668,10 +3688,6 @@ http://stream.pcradio.ru:8000/shanson_irkut-hi
 #EXTINF:-1,Cnv Radio
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_cnv-hi
-
-#EXTINF:-1,FM Birobidzhan
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_birobidzhan-hi
 
 #EXTINF:-1,a.m. ambient
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -15296,10 +15312,6 @@ http://stream.pcradio.ru:8000/wfuv_live-hi
 #EXTINF:-1,FUV
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/wfuv_music-hi
-
-#EXTINF:-1,Gospel FM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/redegospelfm_com_br-hi
 
 #EXTINF:-1,Jazzy 90.9
 #EXTVLCOPT:http-user-agent=coming_soon
