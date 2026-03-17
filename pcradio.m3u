@@ -1,6 +1,26 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Record Mashup
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rcdmushup-hi
+
+#EXTINF:-1,RADIO CFM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdcfm-hi
+
+#EXTINF:-1,Tempo-Radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdtempomx-hi
+
+#EXTINF:-1,Radio ROKVOLNA
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_rdrockvln-hi
+
+#EXTINF:-1,POPFM Russkoe
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_popruss_ru-hi
+
 #EXTINF:-1,POPFM Rock
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_popfmbirrock-hi
@@ -2265,10 +2285,6 @@ http://stream.pcradio.ru:8000/rad_pltfmr-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_hpphrdcrcm-hi
 
-#EXTINF:-1,Pirate Radio (Rock Wave) 18+
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rckww-hi
-
 #EXTINF:-1,Much fm Eurdance
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_mchfmrdnc-hi
@@ -2932,10 +2948,6 @@ http://stream.pcradio.ru:8000/rad_mclsmrtn-hi
 #EXTINF:-1,Nature Radio Rain
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_ntrrdrn-hi
-
-#EXTINF:-1,Radio Air TOUCH 
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rdrtch-hi
 
 #EXTINF:-1,Radio One Albania
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -5072,10 +5084,6 @@ http://stream.pcradio.ru:8000/afsana_ca-hi
 #EXTINF:-1,Eurodance Classic
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/eurodance_clas-hi
-
-#EXTINF:-1,Radio Air Touch
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/airtouch_com-hi
 
 #EXTINF:-1,Evropa (Nizhny Novgorod)
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -11557,10 +11565,6 @@ http://stream.pcradio.ru:8000/lav_radio_mix-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/techno_fm_live-hi
 
-#EXTINF:-1,Don-TR
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/dontr_ru-hi
-
 #EXTINF:-1,FFH iTunes Top40
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/ffh_itunes_top40-hi
@@ -15705,10 +15709,6 @@ http://stream.pcradio.ru:8000/radioteddy_de-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/bbradio_de-hi
 
-#EXTINF:-1,You FM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/youfm_de-hi
-
 #EXTINF:-1,N-Joy
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/njoy_de-hi
@@ -15844,10 +15844,6 @@ http://stream.pcradio.ru:8000/radioshanson_fm_romance-hi
 #EXTINF:-1,Shanson (Moscow) - Uncensored
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/radioshanson_fm_uncensored-hi
-
-#EXTINF:-1,Megapolis FM 89.5
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/megapolisfm_ru-hi
 
 #EXTINF:-1,Relax FM (Moscow)
 #EXTVLCOPT:http-user-agent=coming_soon
