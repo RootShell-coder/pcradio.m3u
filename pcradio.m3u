@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,TECHNO URALSOUND FM
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_uralsndtech-hi
+
 #EXTINF:-1,Record Mashup
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rcdmushup-hi
@@ -3021,14 +3025,6 @@ http://stream.pcradio.ru:8000/rad_nl100ndrpp-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_brlnrrndfnk-hi
 
-#EXTINF:-1,Absolut Oldie Classics
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_absltldclsscs-hi
-
-#EXTINF:-1,Absolut Bella
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_absltbll-hi
-
 #EXTINF:-1,Clásico
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_clscn-hi
@@ -3501,14 +3497,6 @@ http://stream.pcradio.ru:8000/rad_behitroye-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_brfra-hi
 
-#EXTINF:-1,Absolut HOT
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_deabh-hi
-
-#EXTINF:-1,Absolut Top
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_deabstop-hi
-
 #EXTINF:-1,Radio Roma
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_itrom-hi
@@ -3716,10 +3704,6 @@ http://stream.pcradio.ru:8000/rad_dalefm-hi
 #EXTINF:-1,Energy Germany Top 40
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_energyde-hi
-
-#EXTINF:-1,NYAMKIN.RU Cooking Site
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/nyamkin_fm-hi
 
 #EXTINF:-1,RadioGora
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -12040,10 +12024,6 @@ http://stream.pcradio.ru:8000/kissfm_ro-hi
 #EXTINF:-1,N-Joy (Sofia)
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/njoy_bg-hi
-
-#EXTINF:-1,Absolut relax
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/absolutrelax_de-hi
 
 #EXTINF:-1,radiOzora - Trance
 #EXTVLCOPT:http-user-agent=coming_soon
