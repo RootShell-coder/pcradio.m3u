@@ -3413,10 +3413,6 @@ http://stream.pcradio.ru:8000/rad_ilvrssnmsc-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_svtestrda-hi
 
-#EXTINF:-1,NAGO Radio V.2.0
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_runafnrlsk-hi
-
 #EXTINF:-1,Record Tech House
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rectchnhos-hi
@@ -6649,10 +6645,6 @@ http://stream.pcradio.ru:8000/ondacero_madrid-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/progulus-hi
 
-#EXTINF:-1,Radio Piligrim - Music
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/piligrim_music-hi
-
 #EXTINF:-1,Rádio Kuia Beu
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/kuia_beu-hi
@@ -7276,10 +7268,6 @@ http://stream.pcradio.ru:8000/avto_krasno-hi
 #EXTINF:-1,RPR1. Aprés Ski und Ballermann
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rpr1_spreski-hi
-
-#EXTINF:-1,Radio DJ Shmagi
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/dj_shmagi-hi
 
 #EXTINF:-1,GRAZ FM
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -11476,10 +11464,6 @@ http://stream.pcradio.ru:8000/deutschlandradio_kultur-hi
 #EXTINF:-1,BR-Klassik
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/br_klassik-hi
-
-#EXTINF:-1,Puls (BR)
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/puls_br-hi
 
 #EXTINF:-1,HR1
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -15873,10 +15857,6 @@ http://stream.pcradio.ru:8000/massage_music-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/reggae_mix_station-hi
 
-#EXTINF:-1,Raggakings
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/raggakings-hi
-
 #EXTINF:-1,Cafe 80s FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/cafe80s_de-hi
@@ -16988,10 +16968,6 @@ http://stream.pcradio.ru:8000/record_gopfm-hi
 #EXTINF:-1,Rock FM 95.2
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rockfm_moscow-hi
-
-#EXTINF:-1,Radio Klassik
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/radio_classic-hi
 
 #EXTINF:-1,Radio Jazz 89.1
 #EXTVLCOPT:http-user-agent=coming_soon
