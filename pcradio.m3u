@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTENC:UTF-8
 
+#EXTINF:-1,Mrachnoe radio
+#EXTVLCOPT:http-user-agent=coming_soon
+http://stream.pcradio.ru:8000/rad_mrachnrad-hi
+
 #EXTINF:-1,TECHNO URALSOUND FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_uralsndtech-hi
@@ -661,10 +665,6 @@ http://stream.pcradio.ru:8000/skazki_naroda-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_cosnfmrck-hi
 
-#EXTINF:-1,Radio Extreme
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rdextrm-hi
-
 #EXTINF:-1,Melodia FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_meldfm-hi
@@ -788,10 +788,6 @@ http://stream.pcradio.ru:8000/rad_zvestiyvest-hi
 #EXTINF:-1,Nacionalnoe radio Chuvashii
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_chuvashvest-hi
-
-#EXTINF:-1,Radio Peterburg
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_peterbrgvest-hi
 
 #EXTINF:-1,SLOT
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -1593,10 +1589,6 @@ http://stream.pcradio.ru:8000/rad_westndrd-hi
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_asnrdaz-hi
 
-#EXTINF:-1,Radio Sana (Rudny) 103.3 FM
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rdsana-hi
-
 #EXTINF:-1,Synthetic FM Italo
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_snthtcfmitalo-hi
@@ -1648,10 +1640,6 @@ http://stream.pcradio.ru:8000/rad_xtrmdphs-hi
 #EXTINF:-1,PIRAT FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdprtfm-hi
-
-#EXTINF:-1,Radio MetalHeads
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_rdmtlhdsb-hi
 
 #EXTINF:-1,FUSION Radio
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -2760,10 +2748,6 @@ http://stream.pcradio.ru:8000/rad_elctrsttnru-hi
 #EXTINF:-1,Radio Amra International
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_rdmrgr-hi
-
-#EXTINF:-1,DFM Azerbaijan
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_ondffm-hi
 
 #EXTINF:-1,Russkoe - Hajpovye Dvadcatye
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -4376,10 +4360,6 @@ http://stream.pcradio.ru:8000/progressistedhaiti-hi
 #EXTINF:-1,Expat Radio Scotland
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/expat_scotland-hi
-
-#EXTINF:-1,Radio 97
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/radio97_net-hi
 
 #EXTINF:-1,Vôo Livre FM
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -12640,10 +12620,6 @@ http://stream.pcradio.ru:8000/fm181_80s_hairband-hi
 #EXTINF:-1,Ace Radio - The Hairband Channel
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/aceradio_hairband-hi
-
-#EXTINF:-1,RadyMuzyke
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rady_muzyke-hi
 
 #EXTINF:-1,Radio 538 Top 50
 #EXTVLCOPT:http-user-agent=coming_soon
