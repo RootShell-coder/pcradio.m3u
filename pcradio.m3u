@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTENC:UTF-8
 
-#EXTINF:-1,Porão Da Nau 2
+#EXTINF:-1,Porao Da Nau 2
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_paraodanau-hi
 
@@ -2032,10 +2032,6 @@ http://stream.pcradio.ru:8000/rad_rdnstlgr-hi
 #EXTINF:-1,SUB FM
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rad_sbfmsk-hi
-
-#EXTINF:-1,Radio Christmas EDM Room
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/rad_dmchrstmsrm-hi
 
 #EXTINF:-1,Radio España
 #EXTVLCOPT:http-user-agent=coming_soon
@@ -15580,10 +15576,6 @@ http://stream.pcradio.ru:8000/powerhitz_hiphop-hi
 #EXTINF:-1,RauteMusik Deutschrap
 #EXTVLCOPT:http-user-agent=coming_soon
 http://stream.pcradio.ru:8000/rautemusik_deutschrap-hi
-
-#EXTINF:-1,Radio Sorte Music
-#EXTVLCOPT:http-user-agent=coming_soon
-http://stream.pcradio.ru:8000/sorte_web_radio-hi
 
 #EXTINF:-1,Linea Radio Savona
 #EXTVLCOPT:http-user-agent=coming_soon
