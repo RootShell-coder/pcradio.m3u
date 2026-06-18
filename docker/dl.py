@@ -43,14 +43,14 @@ def m3u():
         print(f'#EXTINF:-1,{i["name"]}')
         # print(f'#EXTVLCOPT:http-user-agent={USER_AGENT}')
         # print(f'#EXTIMG:{i["logo"]}')
-        print(f'{i["stream"]}-hi\n')
+        print(f'{i["stream"]}\n')
     js_file.close()
 
 def uri():
     js_file = open(f'list_{LANG}.json', 'r', encoding='utf-8')
     dict_data = json.loads(js_file.read())
     for i in dict_data["stations"]:
-        print(f'{i["stream"]}-hi')
+        print(f'{i["stream"]}')
     js_file.close()
 
 match parser_format[1]:
