@@ -1,62 +1,115 @@
-"""
-get station pcradio
-"""
+""" get station pcradio """
+
 # pylint: disable=missing-function-docstring line-too-long
 
-import os
 import json
-from sys import argv
-import requests
-import pyzipper
-from dotenv import load_dotenv
-load_dotenv()
+import os
+import sys
 
-parser_format = argv  # e.g. (m3u, uri)
+LANG = "en"
+URL = f"http://stream.pcradio.ru/list/list_{LANG}/list_{LANG}.zip"
+FNV_OFFSET_BASIS = 14695981039346656037
+FNV_PRIME = 1099511628211
+UINT64_MASK = (1 << 64) - 1
 
-LANG = 'en'
-URL = f'http://stream.pcradio.ru/list/list_{LANG}/list_{LANG}.zip'
-ZIPPASS = bytes(os.getenv('ZIPPASSWORD'), "utf-8")
-USER_AGENT = "coming_soon" #os.getenv('UA')
+
+def station_id_from_url(url):
+    value = str(url or "").strip().encode("utf-8")
+    scheme = value.find(b"://")
+    authority_end = 0
+    if scheme >= 0:
+        authority_end = len(value)
+        for separator in (b"/", b"?", b"#"):
+            position = value.find(separator, scheme + 3)
+            if position >= 0:
+                authority_end = min(authority_end, position)
+
+    station_hash = FNV_OFFSET_BASIS
+    for position, byte in enumerate(value):
+        if position < authority_end and 65 <= byte <= 90:
+            byte += 32
+        station_hash ^= byte
+        station_hash = (station_hash * FNV_PRIME) & UINT64_MASK
+    return f"{station_hash:016x}"
+
+
+def deduplicate_stations(stations):
+    unique = []
+    seen_ids = set()
+    duplicate_count = 0
+    for station in stations:
+        station_id = station_id_from_url(station["stream"])
+        if station_id in seen_ids:
+            duplicate_count += 1
+            continue
+        seen_ids.add(station_id)
+        unique.append(station)
+    print(
+        f"Stations: {len(stations)}, unique: {len(unique)}, "
+        f"duplicates removed: {duplicate_count}",
+        file=sys.stderr,
+    )
+    return unique
+
 
 def get_json_playlist(download_zip_file):
-    headers = {'User-Agent': 'pcradio'}
-    try:
-        request = requests.get(download_zip_file, headers=headers, timeout=15)
-    except ImportError:
-        print("Error! Unable to download file.")
-    with open(f'list_{LANG}.zip', 'wb') as fh:
-        fh.write(request.content)
-    with pyzipper.AESZipFile(f'list_{LANG}.zip') as zf:
-        zf.setpassword(ZIPPASS)
-        json_file = zf.read(f'list_{LANG}.json')
-        with open(f'list_{LANG}.json', 'wb') as jf:
-            jf.write(json_file)
+    import pyzipper
+    import requests
 
-get_json_playlist(URL)
+    password = os.getenv("ZIPPASSWORD")
+    if not password:
+        raise RuntimeError("ZIPPASSWORD is not configured")
+    response = requests.get(
+        download_zip_file,
+        headers={"User-Agent": "pcradio"},
+        timeout=15,
+    )
+    response.raise_for_status()
+    zip_filename = f"list_{LANG}.zip"
+    json_filename = f"list_{LANG}.json"
+    with open(zip_filename, "wb") as zip_file:
+        zip_file.write(response.content)
+    with pyzipper.AESZipFile(zip_filename) as archive:
+        archive.setpassword(password.encode("utf-8"))
+        json_data = archive.read(json_filename)
+    with open(json_filename, "wb") as json_file:
+        json_file.write(json_data)
 
-def m3u():
-    js_file = open(f'list_{LANG}.json', 'r', encoding='utf-8')
-    dict_data = json.loads(js_file.read())
+
+def load_unique_stations():
+    with open(f"list_{LANG}.json", "r", encoding="utf-8") as json_file:
+        playlist = json.load(json_file)
+    return deduplicate_stations(playlist["stations"])
+
+
+def write_m3u(stations):
     print("#EXTM3U")
     print("#EXTENC:UTF-8\n")
-    for i in dict_data["stations"]:
-        print(f'#EXTINF:-1,{i["name"]}')
-        # print(f'#EXTVLCOPT:http-user-agent={USER_AGENT}')
-        # print(f'#EXTIMG:{i["logo"]}')
-        print(f'{i["stream"]}\n')
-    js_file.close()
+    for station in stations:
+        print(f'#EXTINF:-1,{station["name"]}')
+        print(f'{station["stream"]}\n')
 
-def uri():
-    js_file = open(f'list_{LANG}.json', 'r', encoding='utf-8')
-    dict_data = json.loads(js_file.read())
-    for i in dict_data["stations"]:
-        print(f'{i["stream"]}')
-    js_file.close()
 
-match parser_format[1]:
-    case "m3u":
-        m3u()
-    case "uri":
-        uri()
-    case _:
-        print('Usage: m3u, uri')
+def write_uri(stations):
+    for station in stations:
+        print(station["stream"])
+
+
+def main(arguments):
+    from dotenv import load_dotenv
+
+    load_dotenv()
+    if len(arguments) != 2 or arguments[1] not in {"m3u", "uri"}:
+        print("Usage: m3u, uri", file=sys.stderr)
+        return 2
+    get_json_playlist(URL)
+    stations = load_unique_stations()
+    if arguments[1] == "m3u":
+        write_m3u(stations)
+    else:
+        write_uri(stations)
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main(sys.argv))
