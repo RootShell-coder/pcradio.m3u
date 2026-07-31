@@ -16,4 +16,6 @@ RUN set eux; \
 USER playlist
 COPY --from=builder --chown=playlist:playlist /home/playlist .
 COPY --chown=playlist:playlist docker/dl.py .
+COPY --chown=playlist:playlist docker/check_stations.py .
+COPY --chown=playlist:playlist playlist.m3u .
 ENTRYPOINT [ "python3", "dl.py" ]

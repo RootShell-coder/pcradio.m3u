@@ -1,4 +1,4 @@
-name: pcradio
+name: Build playlist
 on:
   schedule:
     - cron: "30 20 * * *"
@@ -19,7 +19,5 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: RootShell-coder
-          author_email: Root.Shelling@gmail.com
           message: "upd"
-          add: "pcradio.*"
+          add: "pcradio.m3u"

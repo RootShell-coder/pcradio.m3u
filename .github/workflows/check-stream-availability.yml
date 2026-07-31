@@ -1,0 +1,42 @@
+name: Check stream availability
+
+on:
+  workflow_run:
+    workflows: ["Build playlist"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-stream-availability
+  cancel-in-progress: false
+
+jobs:
+  availability:
+    if: >-
+      ${{ github.event.workflow_run.conclusion == 'success' &&
+          github.event.workflow_run.event != 'pull_request' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: master
+      - name: Build checker image
+        run: docker build -t pcm3u -f docker/Dockerfile .
+      - name: Check final playlist
+        run: |
+          docker run --rm \
+            -v "${{ github.workspace }}:/input:ro" \
+            --entrypoint python3 \
+            pcm3u check_stations.py \
+            /input/pcradio.m3u \
+            /input/unavailable_stations.json \
+            > unavailable_stations.tmp
+          mv unavailable_stations.tmp unavailable_stations.json
+      - name: Commit availability counters
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "update unavailable stations"
+          add: "unavailable_stations.json"

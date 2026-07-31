@@ -11,6 +11,7 @@ URL = f"http://stream.pcradio.ru/list/list_{LANG}/list_{LANG}.zip"
 FNV_OFFSET_BASIS = 14695981039346656037
 FNV_PRIME = 1099511628211
 UINT64_MASK = (1 << 64) - 1
+USER_PLAYLIST = "playlist.m3u"
 
 
 def station_id_from_url(url):
@@ -76,10 +77,54 @@ def get_json_playlist(download_zip_file):
         json_file.write(json_data)
 
 
-def load_unique_stations():
+def load_downloaded_stations():
     with open(f"list_{LANG}.json", "r", encoding="utf-8") as json_file:
         playlist = json.load(json_file)
-    return deduplicate_stations(playlist["stations"])
+    return playlist["stations"]
+
+
+def parse_m3u(lines):
+    stations = []
+    station_name = ""
+    for raw_line in lines:
+        line = raw_line.strip().lstrip("\ufeff")
+        if not line:
+            continue
+        if line.upper().startswith("#EXTINF:"):
+            _, separator, name = line.partition(",")
+            station_name = name.strip() if separator else ""
+            continue
+        if line.startswith("#"):
+            continue
+        stations.append(
+            {
+                "name": station_name or line,
+                "stream": line,
+            }
+        )
+        station_name = ""
+    return stations
+
+
+def load_user_stations(filename=USER_PLAYLIST):
+    try:
+        with open(filename, "r", encoding="utf-8-sig") as playlist_file:
+            stations = parse_m3u(playlist_file)
+    except FileNotFoundError:
+        print(
+            f"User playlist {filename} not found; continuing without it",
+            file=sys.stderr,
+        )
+        return []
+    print(f"User stations loaded: {len(stations)}", file=sys.stderr)
+    return stations
+
+
+def load_combined_stations():
+    # User entries come first and take priority during deduplication.
+    stations = load_user_stations()
+    stations.extend(load_downloaded_stations())
+    return deduplicate_stations(stations)
 
 
 def write_m3u(stations):
@@ -103,7 +148,7 @@ def main(arguments):
         print("Usage: m3u, uri", file=sys.stderr)
         return 2
     get_json_playlist(URL)
-    stations = load_unique_stations()
+    stations = load_combined_stations()
     if arguments[1] == "m3u":
         write_m3u(stations)
     else:
