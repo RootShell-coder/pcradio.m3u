@@ -4,8 +4,14 @@ on:
     - cron: "30 20 * * *"
   push:
     branches: ["master"]
+    paths-ignore:
+      - "playlist.m3u"
+      - ".github/**"
   pull_request:
     branches: ["master"]
+    paths-ignore:
+      - "playlist.m3u"
+      - ".github/**"
 
 jobs:
   playlist:
