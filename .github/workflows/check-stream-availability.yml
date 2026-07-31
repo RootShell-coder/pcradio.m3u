@@ -18,9 +18,9 @@ jobs:
       ${{ github.event.workflow_run.conclusion == 'success' &&
           github.event.workflow_run.event != 'pull_request' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
         with:
           ref: master
       - name: Build checker image
@@ -36,7 +36,7 @@ jobs:
             > unavailable_stations.tmp
           mv unavailable_stations.tmp unavailable_stations.json
       - name: Commit availability counters
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           message: "update unavailable stations"
           add: "unavailable_stations.json"

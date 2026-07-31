@@ -11,13 +11,13 @@ jobs:
   playlist:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       - name: Build image
         run: docker build -t pcm3u -f docker/Dockerfile .
       - name: Get m3u
         run: docker run -i -e ZIPPASSWORD=${{ secrets.ZIPPASSWORD }} -e UA=${{ secrets.UA }} --rm pcm3u m3u > pcradio.m3u
       - name: Commit changes
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v10
         with:
           message: "upd"
           add: "pcradio.m3u"
