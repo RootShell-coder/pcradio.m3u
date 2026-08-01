@@ -188,19 +188,10 @@ def load_previous_state(filename):
     for entry in station_entries:
         if not isinstance(entry, dict) or not isinstance(entry.get("id"), str):
             raise RuntimeError("Unavailable station must contain a string id")
-        count = entry.get("consecutive_failures")
+        count = entry.get("count")
         if isinstance(count, bool) or not isinstance(count, int) or count < 1:
             raise RuntimeError(
-                "Unavailable station consecutive_failures must be positive"
-            )
-        checked_at = entry.get("checked_at")
-        if (
-            isinstance(checked_at, bool)
-            or not isinstance(checked_at, int)
-            or checked_at < 0
-        ):
-            raise RuntimeError(
-                "Unavailable station checked_at must be Unix time"
+                "Unavailable station count must be positive"
             )
         if entry["id"] in failures:
             raise RuntimeError("Duplicate station id in availability state")
@@ -249,18 +240,11 @@ def build_report(
     unavailable = {
         station_id: {
             "id": station_id,
-            "consecutive_failures": int(
-                entry.get("consecutive_failures", 0)
-            ),
-            **(
-                {"checked_at": entry["checked_at"]}
-                if isinstance(entry.get("checked_at"), int)
-                else {}
-            ),
+            "count": int(entry.get("count", 0)),
         }
         for station_id, entry in previous_failures.items()
         if station_id in playlist_ids
-        and int(entry.get("consecutive_failures", 0)) > 0
+        and int(entry.get("count", 0)) > 0
     }
     ordered_stations = rotate_after_cursor(
         distribute_stations_by_host(stations),
@@ -318,11 +302,7 @@ def build_report(
                 previous = unavailable.get(station_id, {})
                 unavailable[station_id] = {
                     "id": station_id,
-                    "consecutive_failures": int(
-                        previous.get("consecutive_failures", 0)
-                    )
-                    + 1,
-                    "checked_at": checked_at,
+                    "count": int(previous.get("count", 0)) + 1,
                 }
             else:
                 unavailable.pop(station_id, None)
