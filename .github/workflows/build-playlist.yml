@@ -6,11 +6,13 @@ on:
     branches: ["master"]
     paths-ignore:
       - "playlist.m3u"
+      - "unavailable_stations.json"
       - ".github/**"
   pull_request:
     branches: ["master"]
     paths-ignore:
       - "playlist.m3u"
+      - "unavailable_stations.json"
       - ".github/**"
 
 jobs:

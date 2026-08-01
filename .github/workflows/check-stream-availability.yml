@@ -27,12 +27,13 @@ jobs:
         run: docker build -t pcm3u -f docker/Dockerfile .
       - name: Check final playlist
         run: |
-          docker run --rm \
+          timeout --signal=TERM --kill-after=30s 11m docker run --rm \
             -v "${{ github.workspace }}:/input:ro" \
             --entrypoint python3 \
             pcm3u check_stations.py \
             /input/pcradio.m3u \
             /input/unavailable_stations.json \
+            --deadline-seconds 600 \
             > unavailable_stations.tmp
           mv unavailable_stations.tmp unavailable_stations.json
       - name: Commit availability counters
